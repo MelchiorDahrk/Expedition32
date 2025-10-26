@@ -1,47 +1,36 @@
 Merging plugins...
-Copying object to master: STAT x32_Terr_WhitePath02
-Copying object to master: STAT x32_Terr_WhiteCliff05
-Copying object to master: STAT x32_Terr_WhiteLedge01
-Copying object to master: STAT x32_Terr_WhiteRamp01
-Copying object to master: STAT x32_Terr_WhiteCliff09
-Copying object to master: STAT x32_Terr_WhiteColumn03
-Copying object to master: ACTI x32_Terr_WhiteStreamLong
-Copying object to master: STAT x32_Terr_WhiteCliff10
-Copying object to master: STAT x32_Terr_WhiteCliff04
-Copying object to master: STAT x32_Terr_WhitePath01
-Copying object to master: STAT x32_Flora_BigPetal02
-Copying object to master: ACTI x32_Terr_WhiteStreamSplit
-Copying object to master: STAT x32_Terr_WhiteRocksGravel
-Copying object to master: ACTI x32_Terr_WhiteStreamBendL
-Copying object to master: ACTI x32_Terr_WhiteStreamShort02
-Copying object to master: ACTI x32_Terr_WhiteStreamTans02
-Copying object to master: STAT x32_Flora_TreeRed02
-Copying object to master: STAT x32_Terr_WhiteCliff02
-Copying object to master: STAT x32_Terr_WhiteRocks01
-Copying object to master: STAT x32_Terr_WhiteCliff01
-Copying object to master: STAT x32_Flora_BigPetal01
-Copying object to master: STAT x32_Terr_WhiteColumn02
-Copying object to master: STAT x32_Terr_WhitePath03
-Copying object to master: STAT x32_Terr_WhiteCliff06
-Copying object to master: STAT x32_Terr_WhiteChannel01
-Copying object to master: ACTI x32_Terr_WhiteStreamShort01
-Copying object to master: ACTI x32_Terr_WhiteStreamTrans01
-Copying object to master: STAT x32_Terr_WhiteCliff03
-Copying object to master: STAT x32_Flora_TreeRed03
-Copying object to master: STAT x32_Terr_WhiteRocks02
-Copying object to master: STAT x32_Flora_TreeRed01
-Copying object to master: STAT x32_Terr_WhiteRamp02
-Copying object to master: ACTI x32_Terr_WhiteStreamEntry
-Copying object to master: STAT x32_Terr_WhiteCliff11
-Copying object to master: STAT x32_Flora_BigPetal03
-Copying object to master: STAT x32_Terr_WhiteCliff07
-Copying object to master: STAT x32_Terr_WhiteCliff08
-Copying object to master: STAT x32_Terr_WhiteRamp03
-Copying object to master: STAT x32_Terr_WhiteStairsR
-Copying object to master: ACTI x32_Terr_WhiteStreamBendR
-Copying object to master: STAT x32_Flora_BigPetal04
-Copying object to master: STAT x32_Terr_WhiteBridge01
-Copying object to master: STAT x32_Terr_WhiteStairsL
-Copying interior to master: x32_mdTestCell
+Copying object to master: STAT x32_Furn_GardenShelfBook01
+Copying object to master: STAT x32_Furn_GardenShelfWall064
+Copying object to master: LIGH x32_Light_GardenTable01
+Copying object to master: STAT x32_In_GardenLrgHall
+Copying object to master: CONT x32_o_GardenDesk
+Copying object to master: LIGH x32_Light_GardenWall
+Copying object to master: STAT x32_Furn_GardenShelfBook02
+Copying object to master: LIGH x32_Light_GardenBed
+Copying object to master: DOOR x32_Door_Garden_In
+Copying object to master: STAT x32_Furn_GardenTableRoundS
+Copying object to master: STAT x32_Furn_GardenTableRect
+Copying object to master: STAT x32_In_GardenLrgArch
+Copying object to master: STAT x32_Furn_GardenTableRoundM
+Copying object to master: CONT x32_o_GardenTable
+Copying object to master: LIGH x32_Light_GardenTable02
+Copying object to master: STAT x32_In_GardenSmlHall
+Copying object to master: STAT x32_Furn_GardenChair
+Copying object to master: STAT x32_Furn_GardenSofa
+Copying object to master: STAT x32_In_GardenLrgCenter
+Copying object to master: ACTI x32_Furn_GardenBed
+Copying object to master: STAT x32_Furn_GardenShelfWall100
+Copying object to master: STAT x32_In_GardenLrgInsert
+Copying object to master: STAT x32_Furn_GardenStool
+Copying object to master: STAT x32_Furn_GardenTableEllips
+Copying object to master: STAT x32_In_GardenCap02
+Copying object to master: STAT x32_In_GardenCap01
+Copying object to master: CONT x32_o_GardenCupboard
+Copying object to master: CONT x32_o_GardenDrawer
+Copying object to master: LIGH x32_Light_GardenOil
+Copying interior to master: x32_mdTestCell_ex
+Merging interior to master: x32_mdTestCell
+Copying interior to master: x32_mdTestCell_in
+Removed deleted interior: x32_mdTestCell
 Saving results...
 Finished!
