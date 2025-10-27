@@ -1,20 +1,5 @@
 Merging plugins...
-Copying object to master: STAT x32_In_GardenShelf02
-Copying object to master: STAT x32_In_GardenShelfStand01
-Copying object to master: STAT x32_Flora_GardenIvy01
-Copying object to master: STAT x32_Flora_GardenIvy03
-Copying object to master: STAT x32_Flora_GardenIvy02
-Copying object to master: STAT x32_In_GardenLrgHallGlass
-Copying object to master: STAT x32_In_GardenShelfStand03
-Copying object to master: STAT x32_Flora_GardenIvyWall03
-Merging object to master: DOOR x32_Door_Garden_In
-Copying object to master: STAT x32_Flora_GardenIvyWall01
-Copying object to master: STAT x32_In_GardenSmlHallGlass
-Copying object to master: STAT x32_Flora_GardenIvy04
-Copying object to master: STAT x32_Flora_GardenIvyWall02
-Copying object to master: STAT x32_In_GardenShelf01
-Copying object to master: STAT x32_In_GardenShelfStand02
-Merging interior to master: x32_mdTestCell_in
+Copying object to master: STAT x32_Terr_WhiteCliffTower
 Merging interior to master: x32_mdTestCell_ex
 Saving results...
 Finished!
