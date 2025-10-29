@@ -1,10 +1,6 @@
 Merging plugins...
-Copying object to master: INGR x32_IngFlor_Saffron
-Copying object to master: CONT x32_f_Crocus01
-Copying object to master: CONT x32_f_Crocus02
-Copying object to master: LEVI x32_lvl_IngSaffron
-Copying object to master: STAT x32_Flora_BushAutumn00
+Copying object to master: STAT x32_In_GardenLrgCenter2
+Copying object to master: STAT x32_In_GardenLrgColumn
 Merging interior to master: x32_mdTestCell_in
-Merging interior to master: x32_mdTestCell_ex
 Saving results...
 Finished!
