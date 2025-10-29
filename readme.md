@@ -13,3 +13,4 @@ Greatness7 - Blender plugin
 css0101 - Ancient Elven Furniture
 spicybamer - Ivy texture
 T_i_a_D - Bush leaf texture
+BaptisteBerard - autumn bush 00
