@@ -1,6 +1,23 @@
 Merging plugins...
-Copying object to master: STAT x32_Flora_TreeRed04
-Copying object to master: STAT x32_Flora_TreeRed05
+Merging object to master: STAT x32_Flora_TreeRed04
+Merging object to master: STAT x32_Flora_TreeRed05
 Merging interior to master: x32_mdTestCell_ex
+Removed duplicate reference: 'x32_Ex_WhiteRuinEdge' at [4167.966, 4309.8794, 5815.8735] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Flora_TreeRed04' at [11011.213, 5692.3667, 6828.5786] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Flora_TreeRed04' at [12016.341, 4881.405, 7471.719] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Flora_TreeRed04' at [6353.922, 9422.177, 9655.928] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Flora_TreeRed04' at [8808.004, 5950.45, 6445.053] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Flora_TreeRed04' at [10081.775, -651.1214, 5144.3623] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Flora_TreeRed04' at [3088.3865, 4094.754, 5999.009] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Flora_TreeRed04' at [6468.0327, 10194.93, 9523.543] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Flora_TreeRed04' at [9181.061, -2733.1912, 5331.1836] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Terr_WhiteRock01' at [13077.989, 179.71272, 6193.1777] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Ex_WhiteRuinGazebo01' at [4706.0283, 4051.5935, 6073.4917] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Flora_TreeRed05' at [13104.488, 3.8712158, 6248.3267] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Flora_TreeRed05' at [6328.8228, 2295.6655, 6715.932] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Flora_TreeRed05' at [12949.457, 4027.685, 8774.941] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Flora_TreeRed05' at [11199.791, 3830.335, 6978.4365] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Flora_TreeRed05' at [9429.87, -3662.961, 5303.0547] from cell 'x32_mdTestCell_ex'
+Removed duplicate reference: 'x32_Flora_TreeRed05' at [9263.588, 6789.0234, 6961.018] from cell 'x32_mdTestCell_ex'
 Saving results...
 Finished!
