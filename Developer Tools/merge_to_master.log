@@ -1,5 +1,11 @@
 Merging plugins...
-Copying object to master: STAT x32_Ex_VelBasement02
-Copying object to master: STAT x32_Ex_VelBasement03
+Copying object to master: STAT x32_In_GardenFence03
+Copying object to master: STAT x32_In_GardenPlatform
+Copying object to master: STAT x32_In_GardenFencepost
+Copying object to master: STAT x32_In_GardenFence01
+Copying object to master: STAT x32_In_GardenPlatformSteps
+Copying object to master: LIGH x32_light@_Day200
+Copying object to master: STAT x32_In_GardenFence02
+Merging interior to master: x32_mdTestCell_in
 Saving results...
 Finished!
