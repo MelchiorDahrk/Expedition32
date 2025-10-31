@@ -1,9 +1,11 @@
 Merging plugins...
-Copying object to master: STAT x32_Terr_WhiteRocksplosion04
-Copying object to master: STAT x32_Terr_WhiteRocksplosion03
-Copying object to master: STAT x32_Terr_WhiteRocksplosion05
-Copying object to master: STAT x32_Terr_WhiteRocksplosion02
-Copying object to master: STAT x32_Terr_WhiteRocksplosion01
-Merging interior to master: x32_mdTestCell_ex
+Copying object to master: MISC x32_Misc_ArtSketchWide01
+Copying object to master: MISC x32_Misc_ArtSketchSquare02
+Copying object to master: MISC x32_Misc_ArtSketchTall03
+Copying object to master: MISC x32_Misc_ArtSketchTall04
+Copying object to master: MISC x32_Misc_ArtSketchSquare01
+Copying object to master: MISC x32_Misc_ArtSketchTall01
+Copying object to master: MISC x32_Misc_ArtSketchTall02
+Merging interior to master: x32_mdTestCell_in
 Saving results...
 Finished!
