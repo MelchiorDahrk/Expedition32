@@ -1,11 +1,9 @@
 Merging plugins...
-Copying object to master: STAT x32_Flora_RedIvy01
-Copying object to master: STAT x32_Flora_RedIvyWall03
-Copying object to master: STAT x32_Flora_RedIvy03
-Copying object to master: STAT x32_Flora_RedIvyWall01
-Copying object to master: STAT x32_Flora_RedIvy04
-Copying object to master: STAT x32_Flora_RedIvyWall02
-Copying object to master: STAT x32_Flora_RedIvy02
+Copying object to master: NPC_ drodos galen
+Copying object to master: SPEL x32_sp_SpiritTouch
+Copying object to master: SPEL x32_ab_SpellAbsorb100
+Copying object to master: NPC_ Samia
+Copying object to master: CREA x32_Und_Spirit
 Merging interior to master: x32_mdTestCell_ex
 Saving results...
 Finished!
