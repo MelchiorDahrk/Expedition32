@@ -1,5 +1,10 @@
 Merging plugins...
-Copying object to master: STAT x32_Terr_WhiteRocksplosion06
-Merging interior to master: x32_mdTestCell_ex
+Copying object to master: STAT x32_Ex_VelWallFloorCornL
+Copying object to master: STAT x32_Ex_VelWallFloorCornR
+Copying object to master: STAT x32_Ex_VelWallFloorCent
+Copying object to master: STAT x32_Ex_VelWallFloorCornInL
+Copying object to master: STAT x32_Ex_VelWallFloorCornInR
+Copying object to master: STAT x32_Ex_VelWallCorn01In
+Merging interior to master: x32_mdTestCell_in
 Saving results...
 Finished!
