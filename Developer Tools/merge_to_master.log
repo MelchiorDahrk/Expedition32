@@ -1,9 +1,5 @@
 Merging plugins...
-Copying object to master: STAT x32_Furn_GardenPlanter02
-Copying object to master: STAT x32_Furn_GardenPlanter01
-Copying object to master: STAT x32_Furn_GardenPlanter03
-Copying object to master: STAT x32_Furn_GardenPlanter04
-Copying object to master: STAT x32_Furn_GardenSpigot
+Copying object to master: STAT x32_In_GardenSmlCorner
 Merging interior to master: x32_mdTestCell_in
 Saving results...
 Finished!
