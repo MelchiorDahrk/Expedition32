@@ -1,9 +1,10 @@
 Merging plugins...
-Copying object to master: STAT x32_Furn_WritRing
-Copying object to master: STAT x32_Furn_WritRingPile01
-Copying object to master: STAT x32_Furn_WritRingPile02
-Copying object to master: BOOK x32_writ_rolled
-Copying object to master: BOOK x32_writ_open
-Merging interior to master: x32_mdTestCell_in
+Copying object to master: STAT x32_Ex_WhiteRuinColonnade01
+Copying object to master: STAT x32_Ex_WhiteRuinBuildingTop2B2
+Copying object to master: STAT x32_Ex_WhiteRuinBuildingTop2B1
+Copying object to master: STAT x32_Ex_WhiteRuinBuildingMid1B2
+Copying object to master: STAT x32_Ex_WhiteRuinBuildingMid1B1
+Copying object to master: STAT x32_Ex_WhiteRuinBuildingTop2B3
+Merging interior to master: x32_mdTestCell_ex
 Saving results...
 Finished!
