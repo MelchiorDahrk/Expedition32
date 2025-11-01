@@ -1,4 +1,9 @@
 Merging plugins...
-Merging object to master: CREA x32_Und_Spirit
+Copying object to master: STAT x32_Furn_WritRing
+Copying object to master: STAT x32_Furn_WritRingPile01
+Copying object to master: STAT x32_Furn_WritRingPile02
+Copying object to master: BOOK x32_writ_rolled
+Copying object to master: BOOK x32_writ_open
+Merging interior to master: x32_mdTestCell_in
 Saving results...
 Finished!
