@@ -1,10 +1,12 @@
 Merging plugins...
-Copying object to master: STAT x32_Ex_WhiteRuinColonnade01
-Copying object to master: STAT x32_Ex_WhiteRuinBuildingTop2B2
-Copying object to master: STAT x32_Ex_WhiteRuinBuildingTop2B1
-Copying object to master: STAT x32_Ex_WhiteRuinBuildingMid1B2
-Copying object to master: STAT x32_Ex_WhiteRuinBuildingMid1B1
-Copying object to master: STAT x32_Ex_WhiteRuinBuildingTop2B3
+Copying object to master: STAT x32_Ex_WhiteRuinBuilding2Mid
+Copying object to master: STAT x32_Ex_WhiteRuinBuilding2Bot
+Copying object to master: STAT x32_Ex_WhiteRuinBuilding2MidB1
+Copying object to master: STAT x32_Ex_WhiteRuinBuilding2MidB2
+Copying object to master: STAT x32_Ex_WhiteRuinBuilding2Top1
+Copying object to master: STAT x32_Ex_WhiteRuinBuilding2TopB2
+Copying object to master: STAT x32_Ex_WhiteRuinBuilding2TopB1
+Copying object to master: STAT x32_Ex_WhiteRuinBuilding2Top2
 Merging interior to master: x32_mdTestCell_ex
 Saving results...
 Finished!
