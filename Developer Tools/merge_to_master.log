@@ -1,12 +1,24 @@
 Merging plugins...
-Copying object to master: STAT x32_Ex_WhiteRuinBuilding2Mid
-Copying object to master: STAT x32_Ex_WhiteRuinBuilding2Bot
-Copying object to master: STAT x32_Ex_WhiteRuinBuilding2MidB1
-Copying object to master: STAT x32_Ex_WhiteRuinBuilding2MidB2
-Copying object to master: STAT x32_Ex_WhiteRuinBuilding2Top1
-Copying object to master: STAT x32_Ex_WhiteRuinBuilding2TopB2
-Copying object to master: STAT x32_Ex_WhiteRuinBuilding2TopB1
-Copying object to master: STAT x32_Ex_WhiteRuinBuilding2Top2
+Copying object to master: STAT x32_In_CaveBlkFloor
+Copying object to master: STAT x32_In_CaveBlkPlatCurve
+Copying object to master: STAT x32_In_CaveBlkColumn02
+Copying object to master: STAT x32_In_CaveBlkPlatBridge
+Copying object to master: STAT x32_In_CaveBlkWall02
+Copying object to master: STAT x32_In_CaveBlkWall01
+Copying object to master: STAT x32_In_CaveBlkWallEntry
+Copying object to master: STAT x32_In_CaveBlkWallBase02
+Copying object to master: STAT x32_In_CaveBlkWallBase01
+Copying object to master: STAT x32_In_CaveBlkPlatSmall01
+Copying object to master: STAT x32_In_CaveBlkWallBase02_in
+Copying object to master: STAT x32_In_CaveBlkPlatStraight
+Copying object to master: STAT x32_In_CaveBlkPlatSmall02
+Copying object to master: STAT x32_In_CaveBlkPlatSpiralL
+Copying object to master: STAT x32_In_CaveBlkPlatSpiralR
+Copying object to master: STAT x32_In_CaveBlkRock01
+Copying object to master: STAT x32_In_CaveBlkWallBase01_in
+Copying object to master: STAT x32_In_CaveBlkColumn01
+Copying object to master: STAT x32_In_CaveBlkGround01
+Copying interior to master: x32_mdTestCell_blk
 Merging interior to master: x32_mdTestCell_ex
 Saving results...
 Finished!
