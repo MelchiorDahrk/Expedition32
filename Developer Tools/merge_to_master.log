@@ -1,12 +1,11 @@
 Merging plugins...
-Copying object to master: STAT x32_In_CaveBlkRockJag04
-Copying object to master: STAT x32_In_CaveBlkRockJag04Split2
-Copying object to master: STAT x32_In_CaveBlkRockJag03
-Copying object to master: STAT x32_In_CaveBlkRockJag02
-Copying object to master: STAT x32_In_CaveBlkRockJag06
-Copying object to master: STAT x32_In_CaveBlkRockJag05
-Copying object to master: STAT x32_In_CaveBlkRockJag04Split1
-Copying object to master: STAT x32_In_CaveBlkRockJag01
+Copying object to master: STAT x32_In_SwordGold02
+Copying object to master: STAT x32_In_SwordGold03
+Copying object to master: LIGH x32_Light@_SwordGold1200
+Copying object to master: STAT x32_In_SwordGold04
+Copying object to master: LIGH x32_Light@_SwordGold0600
+Copying object to master: STAT x32_In_SwordGold01
+Copying object to master: STAT x32_In_SwordGold05
 Merging interior to master: x32_mdTestCell_blk
 Saving results...
 Finished!
