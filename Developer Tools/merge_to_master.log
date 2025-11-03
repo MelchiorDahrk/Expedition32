@@ -1,6 +1,7 @@
 Merging plugins...
-Copying object to master: STAT x32_Furn_Pin01
-Copying object to master: STAT x32_Furn_Pin03
-Copying object to master: STAT x32_Furn_Pin02
+Copying object to master: STAT x32_Ex_CorpseGround01
+Copying object to master: STAT x32_Ex_CorpseGround03
+Copying object to master: STAT x32_Ex_CorpseGround02
+Merging interior to master: x32_mdTestCell_blk
 Saving results...
 Finished!
