@@ -1,11 +1,6 @@
 Merging plugins...
-Copying object to master: STAT x32_In_SwordGold02
-Copying object to master: STAT x32_In_SwordGold03
-Copying object to master: LIGH x32_Light@_SwordGold1200
-Copying object to master: STAT x32_In_SwordGold04
-Copying object to master: LIGH x32_Light@_SwordGold0600
-Copying object to master: STAT x32_In_SwordGold01
-Copying object to master: STAT x32_In_SwordGold05
-Merging interior to master: x32_mdTestCell_blk
+Copying object to master: STAT x32_Furn_Pin01
+Copying object to master: STAT x32_Furn_Pin03
+Copying object to master: STAT x32_Furn_Pin02
 Saving results...
 Finished!
