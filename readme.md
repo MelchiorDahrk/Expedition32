@@ -16,3 +16,4 @@ T_i_a_D - Bush leaf texture
 BaptisteBerard - autumn bush 00
 Rocky trail texture - Amal Kumar
 Rock face texture - Dario Barresi
+Nillusion, Kullamannen, Ole Gunnar Isager, sleepyUnicorn, and Rohit3DAsset - golden swords
