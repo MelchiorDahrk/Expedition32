@@ -7,7 +7,7 @@ Seelof
 
 ## Credits
 Lucevar - Special thanks for consulting, honorary team member
-DJMaesen - Red-leaved tree model
+DJMaesen - Red-leaved tree and the beast models
 zackg - Red leaves source texture
 Greatness7 - Blender plugin
 css0101 - Ancient Elven Furniture
