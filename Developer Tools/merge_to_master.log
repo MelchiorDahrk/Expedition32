@@ -1,8 +1,5 @@
 Merging plugins...
-Copying object to master: STAT x32_Ex_WhiteRuinTower02
-Copying object to master: STAT x32_Ex_WhiteRuinTower03
-Copying object to master: STAT x32_Ex_WhiteRuinTower04
-Copying object to master: STAT x32_Ex_WhiteRuinTower05
-Copying object to master: STAT x32_Ex_WhiteRuinTower01
+Copying object to master: DOOR x32_Door_WhiteRuinTower
+Merging interior to master: x32_mdTestCell_ex
 Saving results...
 Finished!
