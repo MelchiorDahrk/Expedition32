@@ -1,21 +1,8 @@
 Merging plugins...
-Copying object to master: STAT x32_Flora_PuzzleRoots03
-Copying object to master: STAT x32_Flora_PuzzleRoot03
-Copying object to master: STAT x32_Flora_PuzzleRootLrg04
-Copying object to master: STAT x32_Flora_PuzzleTree01
-Copying object to master: STAT x32_Flora_PuzzleRoot02
-Copying object to master: STAT x32_Flora_PuzzleRoots02
-Copying object to master: STAT x32_Flora_PuzzleTree02
-Copying object to master: STAT x32_Flora_PuzzleRootLrg02
-Copying object to master: STAT x32_Flora_PuzzleRoot04
-Copying object to master: STAT x32_Flora_PuzzleRoots01
-Copying object to master: STAT x32_Flora_PuzzleRootWall01
-Copying object to master: ACTI x32_In_PuzzleTreeOpen
-Copying object to master: STAT x32_Flora_PuzzleRoot01
-Copying object to master: ACTI x32_In_PuzzleBasin
-Copying object to master: STAT x32_Flora_PuzzleRootLrg01
-Copying object to master: LIGH x32_Light_Logpile500
-Copying object to master: STAT x32_Flora_PuzzleRootLrg03
-Copying interior to master: x32_mdTestCell_puzzle
+Copying object to master: STAT x32_In_BlackRuinWall02_Arch
+Copying object to master: STAT x32_In_BlackRuinPillar02_b02
+Copying object to master: STAT x32_In_BlackRuinPillar02_b03
+Copying object to master: STAT x32_In_BlackRuinWall02_B01
+Copying object to master: STAT x32_In_BlackRuinPillar02_b01
 Saving results...
 Finished!
