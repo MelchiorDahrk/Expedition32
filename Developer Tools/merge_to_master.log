@@ -1,8 +1,8 @@
 Merging plugins...
-Copying object to master: STAT x32_In_BlackRuinBridge01_B01
-Copying object to master: STAT x32_In_BlackRuinBridge01_B02
-Copying object to master: STAT x32_In_BlackRuinBridge01_End01
-Copying object to master: STAT x32_In_BlackRuinBridge01_B03
-Copying object to master: STAT x32_In_BlackRuinBridge01_End02
+Merging object to master: LIGH x32_Light_GardenTable01
+Copying object to master: LIGH x32_light@_Day300
+Copying object to master: LIGH x32_light@_Day500
+Merging object to master: LIGH x32_light@_Day200
+Copying interior to master: The Greenhouse, Vestibule
 Saving results...
 Finished!
