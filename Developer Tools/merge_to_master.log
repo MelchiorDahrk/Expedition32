@@ -1,7 +1,7 @@
 Merging plugins...
-Copying object to master: STAT x32_In_WhiteRuinTower01
-Copying object to master: STAT x32_In_WhiteRuinTowerLift01
-Copying object to master: STAT x32_In_WhiteRuinTowerLift01_COL
-Copying object to master: STAT x32_In_WhiteRuinTowerFloor01
+Copying object to master: ACTI x32_Furn_GardenFountain
+Merging object to master: DOOR x32_Door_Garden_In
+Merging interior to master: The Greenhouse, Vestibule
+Copying interior to master: The Greenhouse, Atrium
 Saving results...
 Finished!
