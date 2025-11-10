@@ -1,18 +1,7 @@
 Merging plugins...
-Copying object to master: NPC_ X32_ViolentMaster
-Copying object to master: NPC_ X32_SparStudent1
-Copying object to master: NPC_ X32_DoubtMaster
-Copying object to master: NPC_ X32_SparStudent2
-Copying object to master: NPC_ X32_SubtleMaster
-Copying object to master: STAT X32_walldecalMeph
-Merging exterior to master: (17, -4)
-Merging exterior to master: (17, -3)
-Merging exterior to master: (18, -5)
-Merging exterior to master: (18, -4)
-Merging exterior to master: (18, -3)
-Copying interior to master: Monastery of Mephala, Refectory
-Copying interior to master: Monastery of Mephala, Contemplation
-Copying interior to master: Monastery of Mephala, Quarters
-Copying interior to master: Monastery of Mephala
+Copying object to master: STAT x32_Furn_StatueClassic
+Copying object to master: STAT x32_Furn_StatueClassic2
+Merging interior to master: The Greenhouse, Atrium
+Copying interior to master: The Greenhouse, East Wing
 Saving results...
 Finished!
