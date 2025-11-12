@@ -1,4 +1,11 @@
 Merging plugins...
-Copying object to master: STAT x32_In_BlackRuinLanding
+Copying object to master: STAT x32_Furn_StatueCreepBurden
+Copying object to master: STAT x32_Furn_StatueCreepHit
+Copying object to master: STAT x32_Furn_StatueCreepNoise
+Copying object to master: STAT x32_Furn_StatueCreepSick
+Copying object to master: STAT x32_Furn_StatueCreepThroat
+Copying object to master: STAT x32_Furn_StatueCreepCrushed
+Copying object to master: STAT x32_Furn_StatueCreepHeadache
+Merging interior to master: x32_mdTestCell_blk
 Saving results...
 Finished!
