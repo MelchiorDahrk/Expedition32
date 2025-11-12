@@ -24,6 +24,7 @@ Peter Nox - Kagioun
 Polyhaven - Textures
 Runspect - Classic Statue
 mateochoque - garden set divider
+ChooChinTian - garden chest
 
 "3D Character: Creepy Statue" (https://skfb.ly/pB8NW) by General of Thailand is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
