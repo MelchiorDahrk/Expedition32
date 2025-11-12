@@ -1,6 +1,8 @@
 Merging plugins...
-Copying object to master: STAT x32_In_GardenSmlHall3way
-Copying object to master: STAT x32_In_GardenSmlHall4way
-Copying object to master: STAT x32_In_GardenCap03
+Copying object to master: CONT x32_o_GardChestClothF
+Copying object to master: CONT x32_o_GardChestPos
+Copying object to master: CONT x32_o_GardChestGold
+Copying object to master: CONT x32_o_GardChestEmpty
+Merging interior to master: x32_mdTestCell_in
 Saving results...
 Finished!
