@@ -1,8 +1,6 @@
 Merging plugins...
-Copying object to master: CONT x32_o_GardChestClothF
-Copying object to master: CONT x32_o_GardChestPos
-Copying object to master: CONT x32_o_GardChestGold
-Copying object to master: CONT x32_o_GardChestEmpty
-Merging interior to master: x32_mdTestCell_in
+Copying object to master: STAT x32_In_BlackRuinEdge01
+Copying object to master: STAT x32_In_BlackRuinPlateauLarge01
+Copying object to master: DOOR x32_Door_BlackRuin
 Saving results...
 Finished!
