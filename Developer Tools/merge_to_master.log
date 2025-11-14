@@ -1,5 +1,8 @@
 Merging plugins...
-Merging object to master: STAT x32_In_GardenSmlHallHalf
-Copying interior to master: The Greenhouse, Gallery
+Copying object to master: MISC x32_Misc_GardenTrowel
+Copying object to master: MISC x32_Misc_GardenHoe
+Copying object to master: MISC x32_Misc_GardenCultivator
+Copying object to master: MISC x32_Misc_GardenWateringCan
+Merging interior to master: x32_mdTestCell_in
 Saving results...
 Finished!
