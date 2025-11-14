@@ -1,6 +1,7 @@
 Merging plugins...
-Copying object to master: MISC x32_Key_FloralBlue
-Copying object to master: MISC x32_Key_FloralGreen
-Copying object to master: MISC x32_Key_FloralRed
+Copying object to master: STAT x32_In_VelSmallFrescoMephala
+Merging object to master: STAT X32_walldecalMeph
+Merging interior to master: Monastery of Mephala, Contemplation
+Removed deleted STAT object: X32_walldecalMeph
 Saving results...
 Finished!
