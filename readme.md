@@ -26,6 +26,7 @@ Runspect - Classic Statue
 mateochoque - garden set divider
 ChooChinTian - garden chest
 Kurpolio - nebula mesh and texture
+Katherina - Watering can
 
 "3D Character: Creepy Statue" (https://skfb.ly/pB8NW) by General of Thailand is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
