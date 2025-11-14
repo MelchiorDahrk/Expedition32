@@ -1,8 +1,17 @@
 Merging plugins...
-Copying object to master: MISC x32_Misc_GardenTrowel
-Copying object to master: MISC x32_Misc_GardenHoe
-Copying object to master: MISC x32_Misc_GardenCultivator
-Copying object to master: MISC x32_Misc_GardenWateringCan
-Merging interior to master: x32_mdTestCell_in
+Merging object to master: STAT x32_In_GardenSmlHallHalf
+Merging interior to master: The Greenhouse, Storage Cupboard
+Merging interior to master: The Greenhouse, Atelier
+Copying interior to master: The Greenhouse, West Wing
+Merging interior to master: The Greenhouse, Bathhouse
+Merging interior to master: The Greenhouse, Solarium
+Copying interior to master: The Greenhouse, Palmarium
+Merging interior to master: The Greenhouse, Atrium
+Merging interior to master: Monastery of Mephala, Contemplation
+Merging interior to master: The Greenhouse, Boudoir of The Duchess
+Merging interior to master: The Greenhouse, East Wing
+Merging interior to master: The Greenhouse, Gallery
+Merging interior to master: The Greenhouse, Lab
+Merging interior to master: The Greenhouse, North Wing
 Saving results...
 Finished!
