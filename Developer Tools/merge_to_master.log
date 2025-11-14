@@ -1,5 +1,10 @@
 Merging plugins...
-Copying object to master: STAT x32_In_GardenSmlHallRamp
-Copying object to master: STAT x32_In_GardenSmlHallStairs
+Copying object to master: STAT x32_Furn_AncientVaseBrk03
+Copying object to master: STAT x32_Furn_AncientVase03
+Copying object to master: STAT x32_Furn_AncientVaseBrk02
+Copying object to master: STAT x32_Furn_AncientVaseBrk01
+Copying object to master: STAT x32_Furn_AncientVase02
+Copying object to master: STAT x32_Furn_AncientVase01
+Merging interior to master: x32_mdTestCell_blk
 Saving results...
 Finished!
