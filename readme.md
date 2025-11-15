@@ -29,6 +29,7 @@ Kurpolio - nebula mesh and texture
 Katherina - Watering can
 Jordan F - Trinket box
 Ruffin Vangarr - A dark elf guy head & hair
+Shriker1 - Morag Tong dagger
 
 Wazabear - Skybox star texture
 
