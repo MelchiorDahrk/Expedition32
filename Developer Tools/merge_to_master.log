@@ -1,10 +1,7 @@
 Merging plugins...
-Copying object to master: CONT x32_o_TrinketBoxGold
-Copying object to master: CONT x32_o_TrinketBoxJewlr
-Copying object to master: CONT x32_o_TrinketBoxTblSv
-Copying object to master: CONT x32_o_TrinketBoxHair
-Copying object to master: CONT x32_o_TrinketBoxGems
-Copying object to master: CONT x32_o_TrinketBoxJwMag
-Merging interior to master: x32_mdTestCell_in
+Copying object to master: NPC_ x32_DEG
+Copying object to master: BODY x32_b_DegHead
+Copying object to master: BODY x32_b_DegHair
+Merging interior to master: x32 1
 Saving results...
 Finished!
