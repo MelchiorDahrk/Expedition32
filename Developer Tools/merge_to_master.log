@@ -1,41 +1,5 @@
 Merging plugins...
-Copying object to master: SCPT x32_RotateSkyBox
-Copying object to master: STAT x32_In_WrSmlHall
-Copying object to master: STAT x32_In_WrLrgHallDoor
-Copying object to master: STAT x32_In_WrFloor512Open01
-Copying object to master: STAT x32_In_WrFloor512Open02
-Copying object to master: STAT x32_In_WrLrgHallEnd
-Copying object to master: STAT x32_In_WrLrgHallEndDoor
-Copying object to master: STAT x32_In_WrSmlHall4way
-Copying object to master: STAT x32_In_WrSmlHallEndWindow
-Copying object to master: STAT x32_Furn_WrBench02
-Copying object to master: LIGH x32_Light_GardenWall128
-Copying object to master: STAT x32_In_WrFloor512
-Copying object to master: STAT x32_In_WrSmlHallCorner
-Copying object to master: STAT x32_In_WrSmlCeilingOpen
-Copying object to master: STAT x32_In_WrSmlHall3way
-Copying object to master: STAT x32_In_WrLrgHall3way
-Copying object to master: LIGH x32_light_wr_wall01
-Copying object to master: STAT x32_In_WrSmlHallStair
-Copying object to master: ACTI x32_SkyBoxStars
-Copying object to master: STAT x32_In_WrLrgHall4way
-Copying object to master: STAT x32_In_WrGrate512
-Copying object to master: STAT x32_In_WrFloor256
-Copying object to master: STAT x32_In_WrGrate256
-Copying object to master: STAT x32_In_WrSmlHallEnd
-Copying object to master: STAT x32_In_WrSmlHallWindow
-Copying object to master: LIGH x32_light_wr_wall02
-Copying object to master: BOOK x32_wr_Dreamrealm_aidA
-Copying object to master: STAT x32_In_WrSmlHallDoor
-Copying object to master: STAT x32_Furn_WrBench01
-Copying object to master: STAT x32_In_WrLrgHall
-Copying object to master: STAT x32_In_WrSmlCeiling
-Copying object to master: BOOK x32_wr_Dreamrealm_aidC
-Copying object to master: STAT x32_In_WrLrgHallCorner
-Copying object to master: DOOR x32_Door_Wr
-Copying object to master: STAT x32_In_WrLrgHallOpen
-Copying object to master: BOOK x32_wr_Dreamrealm_aidB
-Copying object to master: STAT x32_In_WrLrgHallWindow
-Copying interior to master: x32_SideRealmSpace
+Copying object to master: LIGH x32_Light_BlkLantern500
+Merging interior to master: x32_mdTestCell_blk
 Saving results...
 Finished!
