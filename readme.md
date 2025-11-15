@@ -27,6 +27,7 @@ mateochoque - garden set divider
 ChooChinTian - garden chest
 Kurpolio - nebula mesh and texture
 Katherina - Watering can
+Jordan F - Trinket box
 
 Wazabear - Skybox star texture
 
