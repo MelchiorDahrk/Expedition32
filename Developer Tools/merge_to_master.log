@@ -1,28 +1,5 @@
 Merging plugins...
-Copying object to master: SCPT x32_VoidGhost_s
-Merging object to master: CREA x32_Und_Spirit
-Copying object to master: SCPT x32_DoorAtelier_s
-Copying object to master: SCPT x32_VoidGhostSpawner_s
-Copying object to master: DOOR x32_Door_Garden_Ex
-Copying object to master: SCPT x32_GoblinSpace_s
-Copying object to master: CREA x32_Und_Spirit_Space
-Copying object to master: ARMO x32_a_UglyBoots
-Copying object to master: CREA x32_Und_VoidGhost
-Copying object to master: DOOR x32_Door_PaintingSpace
-Copying object to master: SOUN x32_CanvasRustling
-Copying object to master: ACTI x32_Act_VoidGhostSpawner
-Copying object to master: DOOR x32_Door_GardenAtelier_In
-Copying object to master: CREA x32_Cre_GoblinSpace
-Copying object to master: DOOR x32_Door_GardenAtelier_Ex
-Merging interior to master: x32 1
-Copying interior to master: The Haunted Void
-Merging interior to master: x32_SideRealmSpace
-Merging interior to master: The Greenhouse, Atelier
-Merging interior to master: The Greenhouse, Gallery
-Copying object to master: ghosts and ugly boots
-Merging object to master: greeting 1
-Copying object to master: x32_sideq_space
-Copying object to master: baknamy
-Removed deleted interior: x32_SideRealmSpace
+Copying object to master: CREA x32_Cre_Minion
+Merging interior to master: x32_mdTestCell_blk
 Saving results...
 Finished!
