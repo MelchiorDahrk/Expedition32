@@ -1,28 +1,12 @@
 Merging plugins...
-Copying object to master: BOOK x32_LostSpiritLostItsWay_AidA
-Copying object to master: ACTI x32_In_Wr_GhFakeDoor02
-Copying object to master: SCPT x32_FakeGHDoor01
-Merging object to master: LIGH x32_light_wr_wall02
-Copying object to master: ACTI x32_In_Wr_GhFakeDoor01
-Copying object to master: SCPT x32_FakeGHDoor02
-Copying object to master: SCPT x32_FakeGHDoor04
-Copying object to master: STAT x32_In_WrLrgFake03
-Copying object to master: ACTI x32_In_Wr_GhFakeDoor03
-Copying object to master: STAT x32_In_WrLrgFake01
-Copying object to master: ACTI x32_In_Wr_GhFakeDoor04
-Copying object to master: STAT x32_In_WrLrgFake09
-Copying object to master: STAT x32_In_WrLrgFake10
-Copying object to master: ACTI x32_In_Wr_GhFakeDoor05
-Copying object to master: SCPT x32_FakeGHDoor05
-Copying object to master: SCPT x32_FakeGHDoor03
-Copying object to master: STAT x32_In_WrLrgFake02
-Copying object to master: STAT x32_Furn_WrBrazierHang
-Copying object to master: STAT x32_In_WrLrgFake06
-Copying object to master: STAT x32_In_WrLrgFake07
-Copying object to master: STAT x32_In_WrLrgFake08
-Copying object to master: STAT x32_In_WrLrgFake04
-Copying object to master: BOOK x32_LostSpiritLostItsWay_AidB
-Copying object to master: STAT x32_In_WrLrgFake05
-Copying interior to master: x32_LostSpiritLostItsWay
+Copying object to master: STAT x32_In_CaveBlkLedge
+Copying object to master: LIGH x32_Light_BlackRuinBrazier_512
+Copying object to master: STAT x32_In_CaveBlkGround02
+Copying object to master: STAT x32_In_BlackRuinWall02E
+Copying object to master: STAT x32_Furn_StatueCreepHit2
+Copying object to master: STAT x32_In_CaveBlkRocksGravel
+Copying object to master: LIGH x32_lantern_corpsepit_512
+Copying object to master: LIGH x32_Light_BlkLantern500_flame
+Copying interior to master: x32 corpsepit
 Saving results...
 Finished!
