@@ -1,53 +1,11 @@
 Merging plugins...
-Copying object to master: SCPT x32_BlackRuinBrazier_PzO8_s
-Copying object to master: ACTI x32_Act_BlackRuinBraz_Pz8
-Copying object to master: LEVI x32_lvl_Celestine
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzO4
-Copying object to master: STAT x32_In_BlackRuinTile
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzO2
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzR5
-Copying object to master: ACTI x32_Act_BlackRuinBraz_Pz3
-Copying object to master: SCPT x32_BlackRuin_PzExit_s
-Copying object to master: SCPT x32_BlackRuinBrazier_PzO2_s
-Copying object to master: ACTI x32_Act_BlackRuinBraz_Pz2
-Copying object to master: DOOR x32_Door_BlackRuin_PzExit
-Copying object to master: CONT x32_m_Celestine01
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzR6
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzO6
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzO3
-Copying object to master: BOOK x32_bk_BrazierSecret
-Copying object to master: STAT x32_In_BlackRuinBrazierOut
-Copying object to master: LIGH x32_Light_BlackRuinBrazierRed
-Copying object to master: SCPT x32_BlackRuinBrazier_PzO5_s
-Copying object to master: ACTI x32_Act_BlackRuinBraz_Pz7
-Copying object to master: LIGH x32_Light_BlkLanternCarry
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzO1
-Merging object to master: LIGH x32_green_2000_01
-Copying object to master: SCPT x32_BlackRuinBrazier_PzO1_s
-Copying object to master: SCPT x32_BlackRuinBrazier_PzO4_s
-Copying object to master: INGR x32_IngMine_Celestine
-Copying object to master: ACTI x32_Act_BlackRuinBraz_Pz5
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzR3
-Copying object to master: ACTI x32_Act_BrazierSecret
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzR4
-Copying object to master: SCPT x32_BlackRuinBrazier_PzO7_s
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzO8
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzR2
-Copying object to master: ACTI x32_Act_BlackRuinBraz_Pz1
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzO5
-Copying object to master: SCPT x32_BlackRuinBrazier_PzO6_s
-Copying object to master: ACTI x32_Act_BlackRuinBraz_Pz4
-Copying object to master: SCPT x32_BrazierSecret_s
-Copying object to master: ACTI x32_Act_BlackRuinBraz_Pz6
-Copying object to master: SCPT x32_BlackRuinBrazier_PzO3_s
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzR7
-Merging object to master: LIGH x32_lantern_corpsepit_512
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzO7
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzR1
-Copying object to master: LIGH x32_Light_BlackRuinBrazier_PzR8
-Merging interior to master: The Greenhouse, Atelier
-Merging interior to master: x32 corpsepit
-Removed deleted LIGH object: x32_lantern_corpsepit_512
-Removed deleted LIGH object: x32_green_2000_01
+Merging object to master: SCPT x32_BlackRuinBrazier_PzO1_s
+Merging object to master: SCPT x32_BlackRuinBrazier_PzO8_s
+Merging object to master: SCPT x32_BlackRuinBrazier_PzO2_s
+Merging object to master: SCPT x32_BlackRuinBrazier_PzO3_s
+Merging object to master: SCPT x32_BlackRuinBrazier_PzO5_s
+Merging object to master: SCPT x32_BlackRuinBrazier_PzO4_s
+Merging object to master: SCPT x32_BlackRuinBrazier_PzO7_s
+Merging object to master: SCPT x32_BlackRuinBrazier_PzO6_s
 Saving results...
 Finished!
