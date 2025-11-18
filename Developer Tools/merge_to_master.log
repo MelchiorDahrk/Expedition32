@@ -1,31 +1,7 @@
 Merging plugins...
-Merging object to master: SCPT x32_FakeGHDoor04
-Copying object to master: CREA x32_Und_Spirit_Doors
-Copying object to master: LIGH x32_DoorsFire04
-Copying object to master: ACTI x32_Act_SideQDoors
-Copying object to master: SCPT x32_FakeGHDoorFinal
-Copying object to master: LIGH x32_DoorsFire01_Blue
-Merging object to master: SCPT x32_FakeGHDoor05
-Copying object to master: LIGH x32_DoorsFire05
-Merging object to master: ACTI x32_In_Wr_GhFakeDoor01
-Copying object to master: LIGH x32_DoorsFire02_Blue
-Copying object to master: LIGH x32_DoorsFire03
-Merging object to master: SCPT x32_FakeGHDoor01
-Copying object to master: LIGH x32_DoorsFire02
-Copying object to master: LIGH x32_DoorsFire03_Blue
-Copying object to master: LIGH x32_DoorsFire04_Blue
-Merging object to master: SCPT x32_FakeGHDoor02
-Copying object to master: LIGH x32_DoorsFire06_Blue
-Copying object to master: LIGH x32_DoorsFire06
-Copying object to master: LIGH x32_DoorsFire05_Blue
-Copying object to master: LIGH x32_DoorsFire01
-Merging object to master: SCPT x32_FakeGHDoor03
-Merging interior to master: x32_LostSpiritLostItsWay
-Copying interior to master: The Shifting Hollow
-Merging interior to master: x32 1
-Merging object to master: greeting 1
-Copying object to master: x32_sideq_doors
-Copying object to master: the right path
-Removed deleted interior: x32_LostSpiritLostItsWay
+Copying object to master: CONT x32_o_WrChestFated
+Copying object to master: ARMO x32_a_FatedHelm
+Copying object to master: BODY x32_a_Fated_hd
+Merging interior to master: x32_mdTestCell_puzzle
 Saving results...
 Finished!
