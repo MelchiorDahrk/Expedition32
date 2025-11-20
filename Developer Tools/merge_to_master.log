@@ -1,39 +1,4 @@
 Merging plugins...
-Copying object to master: SPEL x32_WhiteRuinShrineSpell09
-Copying object to master: CONT x32_o_WrUrnScrolls
-Copying object to master: SCPT x32_WhiteRuinShrineScript
-Copying object to master: SOUN x32_WhiteRuinShrineSound
-Copying object to master: SPEL x32_WhiteRuinShrineSpell01
-Copying object to master: STAT x32_IngFlor_SaffronShrine01
-Copying object to master: SPEL x32_WhiteRuinShrineSpell03
-Copying object to master: SPEL x32_WhiteRuinShrineSpell12
-Copying object to master: STAT x32_IngFlor_SaffronShrine08
-Copying object to master: CONT x32_o_WrChestShrine
-Merging object to master: BOOK x32_LostSpiritLostItsWay_AidA
-Copying object to master: STAT x32_WhiteRuinShrinePlate01
-Copying object to master: SPEL x32_WhiteRuinShrineSpell10
-Copying object to master: STAT x32_IngFlor_SaffronShrine05
-Copying object to master: CONT x32_o_WrUrnFood
-Copying object to master: SPEL x32_WhiteRuinShrineSpell04
-Copying object to master: SPEL x32_WhiteRuinShrineSpell05
-Copying object to master: STAT x32_IngFlor_SaffronShrine04
-Copying object to master: ACTI x32_WhiteRuinWallShrine01
-Copying object to master: CONT x32_o_WrUrnPotions
-Copying object to master: CONT x32_o_WrChestLoot01
-Copying object to master: STAT x32_IngFlor_SaffronShrine06
-Copying object to master: GLOB x32_WhiteRuinShrineCounter
-Copying object to master: SPEL x32_WhiteRuinShrineSpell07
-Copying object to master: STAT x32_IngFlor_SaffronShrine02
-Copying object to master: SPEL x32_WhiteRuinShrineSpell11
-Copying object to master: CONT x32_o_WrUrnIngred
-Copying object to master: STAT x32_IngFlor_SaffronShrine03
-Copying object to master: STAT x32_IngFlor_SaffronShrine07
-Copying object to master: STAT x32_IngFlor_SaffronShrine09
-Copying object to master: SPEL x32_WhiteRuinShrineSpell02
-Copying object to master: SPEL x32_WhiteRuinShrineSpell08
-Copying object to master: SPEL x32_WhiteRuinShrineSpell06
-Merging interior to master: x32 1
-Merging interior to master: The Shifting Hollow
-Merging interior to master: The Haunted Void
+Copying object to master: STAT x32_In_BlackRuinWall02_Cap
 Saving results...
 Finished!
