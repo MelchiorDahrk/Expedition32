@@ -1,13 +1,25 @@
 Merging plugins...
-Copying object to master: CREA x32_Und_AshenKagioun
-Copying object to master: SOUN x32_KagiounAshScream
-Copying object to master: LEVC x32_lvl_CorpsepitAll
-Merging object to master: CREA x32_Und_AshenHusk
-Copying object to master: SOUN x32_KagiounAshRoar
-Copying object to master: SNDG x32_Und_AshenKagioun0006
-Copying object to master: SNDG x32_Und_AshenKagioun0004
-Copying object to master: SNDG x32_Und_AshenKagioun0005
-Copying object to master: SOUN x32_KagiounAshMoan
-Merging interior to master: x32_mdTestCell_blk
+Copying object to master: LIGH x32_DuelFire02_Blue
+Copying object to master: LIGH x32_DuelFire02
+Copying object to master: LIGH x32_DuelFire04_Blue
+Copying object to master: REGN x32_TheFadedPavilion
+Copying object to master: LIGH x32_DuelFire01_Blue
+Copying object to master: NPC_ x32_NPCDuel
+Copying object to master: DOOR x32_Door_Garden_Duel
+Copying object to master: SCPT x32_SideQDuel01
+Copying object to master: LIGH x32_Light_GardenWall_Duel
+Copying object to master: ACTI x32_SkyBoxWhite
+Copying object to master: LIGH x32_DuelFire04
+Copying object to master: CREA x32_Cre_Kagioun_Duel
+Copying object to master: CREA x32_Und_Spirit_Duel
+Copying object to master: LIGH x32_DuelFire03_Blue
+Copying object to master: LIGH x32_DuelFire01
+Copying object to master: LIGH x32_DuelFire03
+Copying object to master: SPEL x32_SideQDuelSpell
+Copying interior to master: The Faded Pavilion
+Merging interior to master: x32 1
+Copying object to master: x32_sideq_duel
+Copying object to master: finish the strike
+Merging object to master: greeting 1
 Saving results...
 Finished!
