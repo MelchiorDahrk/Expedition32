@@ -9,7 +9,7 @@ Seelof
 ## Credits
 
 Lucevar - Special thanks for consulting, honorary team member
-DJMaesen - Red-leaved tree, minion, and the beast models
+DJMaesen - Red-leaved tree model
 zackg - Red leaves source texture
 Greatness7 - Blender plugin
 css0101 - Ancient Elven Furniture
@@ -30,6 +30,7 @@ Katherina - Watering can
 Jordan F - Trinket box
 Ruffin Vangarr - A dark elf guy head & hair
 Shriker1 - Morag Tong dagger
+Rotat - Creature VFX Restoration
 
 Wazabear - Skybox star texture
 
