@@ -31,6 +31,7 @@ Jordan F - Trinket box
 Ruffin Vangarr - A dark elf guy head & hair
 Shriker1 - Morag Tong dagger
 Rotat - Creature VFX Restoration
+Mandrake - Golden pitcher
 
 Wazabear - Skybox star texture
 
