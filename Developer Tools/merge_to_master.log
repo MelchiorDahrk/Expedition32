@@ -1,59 +1,76 @@
 Merging plugins...
-Copying object to master: ACTI X32_Beacon01
-Copying object to master: GLOB x32_JW_Beacon02
-Merging object to master: SCPT x32_DuchessScript06
-Copying object to master: SPEL x32_ab_Eternal_Burn
-Merging object to master: NPC_ x32_Duchess06
-Merging object to master: CREA x32_Und_Spirit_JW7
-Copying object to master: SCPT x32_JW_BeaconScript04
-Merging object to master: SCPT x32_JW_LiftScript02
-Merging object to master: SCPT x32_WhiteRuinShrineScript
-Merging object to master: SCPT x32_DuchessScript01
-Merging object to master: NPC_ x32_Duchess02
-Copying object to master: CREA x32_Cre_KagiounAlpha_Q2
-Copying object to master: ACTI X32_Beacon03
-Merging object to master: GLOB x32_JW_Corpsecleaned01
-Copying object to master: ACTI X32_Beacon04
-Copying object to master: SCPT x32_JW_SpiritTask02
-Copying object to master: SCPT x32_KagiounScript
-Merging object to master: DOOR x32_JW_TowerDoor
-Merging object to master: NPC_ x32_Duchess04
-Copying object to master: ACTI x32_Walldrop
-Merging object to master: GLOB x32_JW_corpsecleaned02
-Merging object to master: NPC_ x32_Duchess05
-Merging object to master: GLOB x32_JW_corpsecleaned03
-Merging object to master: SCPT x32_DuchessScript02
-Copying object to master: SCPT x32_JW_WalldropScript
-Copying object to master: SCPT x32_JW_BeaconScript03
-Copying object to master: CREA x32_Und_Spirit_Q1
-Copying object to master: SCPT x32_JW_BeaconScript02
-Copying object to master: CREA x32_Und_Spirit_Q2
-Copying object to master: GLOB x32_JW_Beacon04
-Copying object to master: CREA x32_Und_Spirit_Q3
-Merging object to master: DOOR x32_Door_Garden_In
-Merging object to master: NPC_ x32_Duchess01
-Merging object to master: ACTI x32_WhiteRuinWallShrine01
-Copying object to master: SCPT x32_JW_BeaconScript01
-Copying object to master: CREA x32_Und_Spirit_Q4
-Merging object to master: SCPT x32_DuchessScript05
-Merging object to master: SCPT x32_DuchessScript03
-Merging object to master: SCPT x32_DuchessScript04
-Copying object to master: SCPT x32_JW_SpiritTask04
-Merging object to master: SCPT x32_JW_TowerDoorScript
-Copying object to master: SCPT x32_JW_SpiritTask03
-Merging object to master: NPC_ x32_Duchess03
-Copying object to master: GLOB x32_JW_Beacon03
-Copying object to master: GLOB x32_JW_Doorsopen
-Copying object to master: ACTI X32_Beacon02
-Copying object to master: GLOB x32_JW_Beacon01
-Copying object to master: SCPT x32_JW_SpiritTask01
-Merging interior to master: x32 1
-Merging interior to master: x32 corpsepit
-Merging object to master: x32_mq
-Merging object to master: greeting 0
-Merging object to master: the garden
-Removed deleted GLOB object: x32_JW_Corpsecleaned01
-Removed deleted GLOB object: x32_JW_corpsecleaned02
-Removed deleted GLOB object: x32_JW_corpsecleaned03
+Copying object to master: NPC_ X32_CultistStudent
+Copying object to master: WEAP x32_w_DaedricAssassin
+Copying object to master: BOOK X32_ViolentWritOne
+Copying object to master: SCPT X32_Writ1MercEnabler_s
+Copying object to master: NPC_ X32_WritMercOne
+Copying object to master: NPC_ X32_WritTargetTwo
+Copying object to master: BOOK X32_SubtleWritOne
+Copying object to master: STAT x32_Furn_idol_mephala
+Merging object to master: BOOK x32_writ_open
+Copying object to master: NPC_ X32_WritMercTwo
+Copying object to master: NPC_ X32_WritMercThree
+Copying object to master: BOOK X32_WritLedgerDoubt
+Merging object to master: NPC_ X32_ViolentMaster
+Copying object to master: GLOB MTMCultist
+Copying object to master: BOOK X32_SubtleWritSelf
+Copying object to master: NPC_ X32_MTMFerryService
+Copying object to master: SCPT X32_MRMWritOneChoiceChecker_s
+Copying object to master: NPC_ X32_NobleStudent
+Copying object to master: SCPT X32_LedgerWritJournal_s
+Copying object to master: GLOB X32_MtMNoble
+Copying object to master: SCPT X32_Writ2LegionEnabler_s
+Copying object to master: BOOK X32_WritLedgerSubtle
+Merging object to master: NPC_ X32_DoubtMaster
+Copying object to master: NPC_ X32_WritTargetOne
+Copying object to master: BOOK X32_SubtleWritTwo
+Copying object to master: BOOK X32_ViolentWritThree
+Copying object to master: NPC_ X32_WritExtra2Two
+Copying object to master: SCPT X32_MRMWritTwoChoiceChecker_s
+Merging object to master: NPC_ X32_SparStudent2
+Copying object to master: GLOB X32_MtMCultist
+Copying object to master: GLOB X32_MtMTwins
+Copying object to master: MISC x32_idol_mephala
+Merging object to master: NPC_ X32_SubtleMaster
+Copying object to master: BOOK X32_ViolentWritTwo
+Merging object to master: NPC_ X32_SparStudent1
+Copying object to master: NPC_ X32_WritExtra1Two
+Copying object to master: SCPT X32_Writ1TargetEnabler_s
+Copying object to master: ALCH X32_MTPoison
+Copying object to master: BOOK X32_SubtleWritThree
+Copying object to master: BOOK X32_ViolentWritSelf
+Copying object to master: BOOK X32_DoubtWritSelf
+Merging exterior to master: (-9, 10)
+Merging exterior to master: (-10, 10)
+Merging exterior to master: (-12, 10)
+Merging exterior to master: (17, -4)
+Merging exterior to master: (-12, 11)
+Merging interior to master: Monastery of Mephala
+Merging interior to master: Monastery of Mephala, Quarters
+Merging interior to master: Caldera, Shenk's Shovel
+Merging interior to master: Monastery of Mephala, Contemplation
+Copying object to master: the ledger
+Copying object to master: x32_mtmwrittwostudents
+Copying object to master: x32_mtmwritoneself
+Copying object to master: x32_mtmhello
+Merging object to master: greeting 9
+Copying object to master: x32_mtmsummon
+Copying object to master: varyn sedrin
+Copying object to master: x32_mtmwrittwoself
+Copying object to master: assignments
+Copying object to master: casil shepherd
+Copying object to master: raynil ondor
+Copying object to master: master of the subtle kill
+Merging object to master: writ
+Copying object to master: master of conquered doubt
+Merging object to master: greeting 5
+Copying object to master: master of overt violence
+Copying object to master: savyn sedrin
+Copying object to master: favil ondor
+Copying object to master: llersa drilith
+Copying object to master: x32_mtmwritonestudents
+Copying object to master: x32_mtmwritfinal
+Merging object to master: mazte
+Copying object to master: monastery of mephala
 Saving results...
 Finished!
