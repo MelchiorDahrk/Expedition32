@@ -28,16 +28,16 @@ ChooChinTian - garden chest
 Kurpolio - nebula mesh and texture
 Katherina - Watering can
 Jordan F - Trinket box
-Ruffin Vangarr - A dark elf guy head & hair
+Ruffin Vangarr - A dark elf guy head \& hair
 Shriker1 - Morag Tong dagger
 Rotat - Creature VFX Restoration
 Mandrake - Golden pitcher
 
 Wazabear - Skybox star texture
 
+freesound\_community - Shrine Sound Effect
+
 "3D Character: Creepy Statue" (https://skfb.ly/pB8NW) by General of Thailand is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 "3D Asset: Creepy Statue" (https://skfb.ly/pBusE) by General of Thailand is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-
 
