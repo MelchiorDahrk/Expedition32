@@ -1,6 +1,30 @@
 Merging plugins...
-Copying object to master: STAT x32_In_WhiteRuinTowerWall01
-Copying object to master: STAT x32_In_WhiteRuinTowerStair01
-Merging interior to master: x32 corpsepit
+Copying object to master: CONT x32_o_WrUrnSmlIngred
+Copying object to master: CONT x32_o_WrChestSmlGems
+Copying object to master: CONT x32_o_WrChestSmlLoot01
+Copying object to master: STAT x32_Furn_WrUrn_b01
+Copying object to master: CONT x32_o_WrChestLoot02
+Copying object to master: MISC x32_Key_TheShiftingHalls02
+Copying object to master: STAT x32_Furn_WrUrnOpen
+Copying object to master: CONT x32_o_WrChestSmlGold
+Copying object to master: SCPT x32_CursedAmethystVoidGhost
+Copying object to master: CONT x32_o_WrChestLoot03
+Copying object to master: CONT x32_o_WrUrnSmlEmpty
+Copying object to master: CONT x32_o_WrUrnSmlFood
+Copying object to master: STAT x32_Furn_WrUrn_b02
+Copying object to master: SCPT x32_GHKeyEntryGreen
+Copying object to master: STAT x32_Furn_WrUrn_b03
+Copying object to master: STAT x32_Furn_WrUrn_b04
+Copying object to master: CONT x32_o_WrChestDoors01
+Copying object to master: STAT x32_Furn_WrUrnLid
+Copying object to master: CONT x32_o_WrChestSmlOre
+Merging object to master: CONT x32_o_WrUrnIngred
+Copying object to master: INGR x32_CursedAmethystGhost
+Copying object to master: STAT x32_Furn_WrUrnLid_b01
+Copying object to master: DOOR x32_Door_GH_GreenKey
+Copying object to master: STAT x32_Furn_WrUrnLid_b02
+Copying object to master: MISC x32_Key_TheShiftingHalls01
+Copying object to master: CONT x32_o_WrChestSmlEmpty
+Merging interior to master: The Shifting Hollow
 Saving results...
 Finished!
