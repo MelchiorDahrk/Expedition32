@@ -1,14 +1,10 @@
 Merging plugins...
-Copying object to master: CONT x32_o_WrChestDoors_UNI
-Merging object to master: NPC_ x32_NPCDuel
-Copying object to master: STAT x32_Ex_WhiteRuinArch01_Duel
-Merging object to master: DOOR x32_Door_Garden_Duel
-Merging object to master: SCPT x32_SideQDuel01
-Copying object to master: DOOR x32_Door_GH_BlueKey
-Copying object to master: CONT x32_o_WrChestDuel_UNI
-Copying object to master: SCPT x32_GHKeyEntryBlue
-Merging interior to master: The Shifting Hollow
-Merging interior to master: The Faded Pavilion
-Removed deleted DOOR object: x32_Door_Garden_Duel
+Merging object to master: MISC x32_Key_TheShiftingHalls01
+Merging object to master: MISC x32_Key_TheShiftingHalls02
+Copying object to master: SCPT x32_GHKeyEntryRed
+Copying object to master: MISC x32_Key_TheHauntedVoid01
+Copying object to master: STAT wr_pond01
+Merging object to master: DOOR x32_Door_GardenAtelier_Ex
+Merging interior to master: The Haunted Void
 Saving results...
 Finished!
