@@ -1,10 +1,9 @@
 Merging plugins...
-Merging object to master: NPC_ x32_NPCDuel
-Merging object to master: SCPT x32_SideQDuel01
-Copying object to master: STAT x32_Ex_GardenDoorBackDuel
-Merging object to master: CONT x32_o_WrChestDuel_UNI
-Merging interior to master: The Garden, Shifting Hollow
-Merging interior to master: The Garden, Faded Pavilion
+Copying object to master: STAT x32_Furn_WrPond01
+Copying object to master: STAT x32_Furn_WrUrn02_Open
+Copying object to master: STAT x32_Furn_WrUrn01_Open
 Merging interior to master: The Garden, Haunted Void
+Merging interior to master: The Garden, Shifting Hollow
+Merging interior to master: The Garden, White Cliffs
 Saving results...
 Finished!
