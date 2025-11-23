@@ -1,9 +1,5 @@
 Merging plugins...
-Copying object to master: GLOB x32_NarrationTracking
-Copying object to master: ACTI x32_Narration1
-Copying object to master: SCPT x32_Narration01
-Copying object to master: CREA x32_Cre_BeastNarration
-Merging interior to master: The Garden, White Cliffs
-Merging object to master: greeting 0
+Merging object to master: greeting 1
+Merging object to master: hello
 Saving results...
 Finished!
