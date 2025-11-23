@@ -1,5 +1,15 @@
 Merging plugins...
-Merging object to master: LEVI x32_lvl_GardenLoot
+Copying object to master: ACTI X32_snd_thread
+Copying object to master: SCPT X32_SpookyThreadSound_s
+Copying object to master: MISC x32_GoldThreadACT
+Copying object to master: SCPT X32_SpookyThreadStuff_s
+Copying object to master: SCPT x32_GoldThreadActJournal_s
+Copying object to master: LIGH x32_GoldThreadGlow
+Copying interior to master: x32 crystal room
 Merging interior to master: The Garden, Shards of Time
+Merging object to master: the garden
+Merging object to master: x32_mq
+Merging object to master: greeting 0
+Merging object to master: greeting 1
 Saving results...
 Finished!
