@@ -1,7 +1,10 @@
 Merging plugins...
-Merging object to master: SCPT X32_SpookyThreadSound_s
-Merging object to master: SCPT x32_GoldThreadActJournal_s
-Copying interior to master: x32 crystal room
-Merging object to master: x32_mq
+Merging object to master: NPC_ x32_NPCDuel
+Merging object to master: SCPT x32_SideQDuel01
+Copying object to master: STAT x32_Ex_GardenDoorBackDuel
+Merging object to master: CONT x32_o_WrChestDuel_UNI
+Merging interior to master: The Garden, Shifting Hollow
+Merging interior to master: The Garden, Faded Pavilion
+Merging interior to master: The Garden, Haunted Void
 Saving results...
 Finished!
