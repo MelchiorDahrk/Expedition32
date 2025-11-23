@@ -1,59 +1,29 @@
 Merging plugins...
-Copying object to master: DOOR X32_Door_PaintingCliffs_F
-Copying object to master: SPEL x32_ab_SlowFallTemp
-Merging object to master: LEVC x32_lvl_Kagioun
-Merging object to master: LIGH x32_Light@_Nebula01
-Copying object to master: CONT x32_o_WrChestLoot04
-Copying object to master: DOOR x32_Door_PaintingHollow
-Copying object to master: LEVI x32_lvl_GardenLoot
-Copying object to master: DOOR x32_Door_PaintingIsland_F
-Copying object to master: ACTI x32_Act_FallAwakeBlack2
-Copying object to master: ACTI x32_Act_FallAwakeWhite
-Copying object to master: CONT x32_o_BrUrnLoot
-Copying object to master: SCPT x32_FallAwakeBlack2_s
-Copying object to master: SCPT x32_FallAwakeBlack_s
-Copying object to master: SCPT x32_FallAwakeWhite_s
-Copying object to master: SCPT x32_TheGardenGlobal_s
-Merging object to master: CREA x32_Cre_Kagioun
-Copying object to master: ACTI x32_Act_FallAwakeBlack
-Copying object to master: DOOR X32_Door_PaintingGhVestibule_F
-Copying object to master: DOOR x32_Door_GardenPalmarium_In
-Copying object to master: SCPT x32_DoorPalmarium_s
-Copying object to master: STAT x32_Furn_GardenTableLab
-Copying object to master: REGN x32_Region_WhiteCliffs
-Merging interior to master: The Greenhouse, Atrium
-Merging interior to master: The Greenhouse, Boudoir of The Duchess
-Merging interior to master: The Greenhouse, Palmarium
-Merging interior to master: The Greenhouse, Lab
-Merging interior to master: The Greenhouse, West Wing
-Merging interior to master: The Greenhouse, East Wing
-Merging interior to master: The Faded Pavilion
-Merging interior to master: The Greenhouse, Vestibule
-Merging interior to master: The Shifting Hollow
-Merging interior to master: x32_mdTestCell_blk
+Merging object to master: CLOT x32_MTPinAmuletDoubt
+Copying object to master: STAT x32_Ex_GardenDoorBack
+Merging object to master: LIGH x32_Light@_Nebula02
 Merging interior to master: The Greenhouse, Storage Cupboard
-Copying interior to master: The Garden, Last Harbor
-Merging interior to master: The Garden, White Cliffs
+Merging interior to master: The Greenhouse, West Wing
 Merging interior to master: The Greenhouse, North Wing
-Copying interior to master: The Garden, Haunted Void
-Copying interior to master: The Garden, Shards of Time
+Merging interior to master: The Garden, Shifting Hollow
+Merging interior to master: The Greenhouse, East Wing
 Merging interior to master: The Greenhouse, Solarium
-Merging interior to master: x32 crystal room, ship
-Merging interior to master: The Greenhouse, Gallery
-Copying interior to master: The Garden,
-Merging interior to master: x32 crystal room
-Merging interior to master: The Haunted Void
+Merging interior to master: The Garden, Corpse Fields
+Merging interior to master: The Garden, White Cliffs
 Merging interior to master: The Greenhouse, Bathhouse
-Copying interior to master: The Garden, Shards of Time, Shipwreck
+Merging interior to master: The Greenhouse, Palmarium
+Merging interior to master: The Greenhouse, Vestibule
+Merging interior to master: The Garden, Shards of Time, Shipwreck
+Merging interior to master: The Garden, Tower
 Merging interior to master: The Greenhouse, Atelier
-Merging interior to master: x32 island
-Copying interior to master: The Garden, Shifting Hollow
-Copying interior to master: The Garden, Faded Pavilion
-Removed deleted interior: The Haunted Void
-Removed deleted interior: x32 crystal room
-Removed deleted interior: The Faded Pavilion
-Removed deleted interior: x32 island
-Removed deleted interior: The Shifting Hollow
-Removed deleted interior: x32 crystal room, ship
+Merging interior to master: The Garden, Faded Pavilion
+Merging interior to master: The Greenhouse, Gallery
+Merging interior to master: The Garden, Shards of Time
+Merging interior to master: The Garden, Haunted Void
+Merging interior to master: The Greenhouse, Boudoir of The Duchess
+Merging interior to master: x32_mdTestCell_blk
+Merging interior to master: The Greenhouse, Atrium
+Merging interior to master: The Greenhouse, Lab
+Removed deleted LIGH object: x32_Light@_Nebula02
 Saving results...
 Finished!
