@@ -1,0 +1,30 @@
+[package]
+name = "The Garden of Dreams"
+version = "1.1.0"
+description = "Witness the mythical interplay of death and fate manifest across surreal realms as you follow the path of a doomed individual who is determined to escape their prophesied death."
+homepage = "https://www.nexusmods.com/morrowind/mods/57831"
+authors = [
+	"JackimoffWackimoff",
+    "Markond",
+    "Melchior Dahrk",
+    "MwGek",
+    "Seelof",
+]
+
+[dependencies]
+assets = [
+    "TheGardenOfDreams.esp",
+    "Meshes\\x32",
+    "BookArt\\x32",
+	"Sound\\x32",
+    "Icons\\x32",
+    "Textures\\x32",
+]
+
+[dependencies.mods."OAAB_Data"]
+version = ">=2.5.0"
+url = "https://www.nexusmods.com/morrowind/mods/49042"
+
+[dependencies.mods."Tamriel_Data"]
+plugin = "Tamriel_Data.esm"
+url = "https://www.nexusmods.com/morrowind/mods/44537"
