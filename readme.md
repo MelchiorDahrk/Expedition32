@@ -91,20 +91,13 @@ If author(s) is/are not able to be contacted through a reasonable effort,
 Then you are free to copy and redistribute the material in its entirety for use in The Elder Scrolls III: Morrowind
 
 ## Changelog
-
-1.2.0
-
-Fixed Elevator script, added a sound at the end, and sped it up
-
-Fixed forcegreetings in Greenhouse Vestibule
-
-Clarified some dialogue
-
-Added better directions to Shards of Time
-
 1.1.0
 Fixed the bed script
 Fixed falling scripts
+Fixed Elevator script, added a sound at the end, and sped it up
+Fixed forcegreetings in Greenhouse Vestibule
+Clarified some dialogue
+Added better directions to Shards of Time
 Fixed repeating forcegreeting in Tower cell
 Added missing ceilings in Shifting Hollow
 Added names to Greenhouse Furniture
