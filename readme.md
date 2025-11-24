@@ -69,6 +69,8 @@ Exceptions - The following assets are not free to use:
 * whiteramp01.nif
 * whiteramp02.nif
 * whiteramp03.nif
+* whitestairsl.nif
+* whitestairsr.nif
 * moldpath01.nif
 * moldpath02.nif
 * moldpath03.nif
@@ -80,4 +82,15 @@ If author(s) is/are not able to be contacted through a reasonable effort,
 Then you are free to copy and redistribute the material in its entirety for use in The Elder Scrolls III: Morrowind
 
 ## Changelog
-1.0.0 - Initial release
+1.1.0
+Fixed the bed script
+Fixed falling scripts
+Fixed repeating forcegreeting in Tower cell
+Added missing ceilings in Shifting Hollow
+Added names to Greenhouse Furniture
+Added name to ancient lantern
+Adjusted painting placement in Greenhouse, Palmarium
+Fixed typos
+
+1.0.0
+Initial release
