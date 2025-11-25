@@ -1,21 +1,7 @@
 Merging plugins...
-Merging object to master: SCPT x32_zadaviscript
-Copying object to master: MISC x32_Misc_ZadaviPillow01
-Copying object to master: CREA x32_Cre_Mudcrab
-Copying object to master: STAT x32_Furn_KagiounShelter
-Copying object to master: CONT x32_o_ChestZadavi
-Copying object to master: MISC x32_Misc_ZadaviPillow03
-Copying object to master: MISC x32_Misc_ZadaviPillow02
-Merging object to master: NPC_ x32_Zadavi
-Copying object to master: ENCH x32_c_FloralAmulet01_en
-Copying object to master: CLOT x32_cEn_FloralAmulet01
-Merging interior to master: The Garden, Last Harbor
-Merging object to master: greeting 1
-Copying object to master: x32_sideq_zadavi2
-Copying object to master: x32_sideq_zadavi
-Copying object to master: pillow is lumpy
-Merging object to master: service refusal
-Copying object to master: 
-Copying object to master: buy goods from zadavi
+Copying object to master: STAT x32_In_WhiteRuinTower02
+Copying object to master: STAT x32_Ex_WhiteRuinTower05W
+Merging interior to master: The Garden, White Cliffs
+Copying interior to master: The Garden, Penthouse
 Saving results...
 Finished!
