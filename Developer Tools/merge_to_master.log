@@ -1,29 +1,9 @@
 Merging plugins...
-Copying object to master: SPEL x32_ab_Melvin
-Copying object to master: ARMO x32_a_MelvinHelm
-Copying object to master: CLAS x32_HeadButler
-Copying object to master: BODY x32_a_Melvin_hd
-Copying object to master: SCPT x32_MelvinAct_s
-Copying object to master: ARMO x32_a_MelvinBracer
-Copying object to master: GLOB x32_MelvinLoc
-Copying object to master: SPEL x32_sp_Melvin
-Copying object to master: ARMO x32_a_MelvinGreaves
-Copying object to master: SCPT x32_Melvin_s
-Copying object to master: ARMO x32_a_MelvinBoots
-Copying object to master: NPC_ x32_Melvin
-Copying object to master: ACTI x32_Act_Melvin
-Merging interior to master: The Greenhouse, Storage Cupboard
-Merging interior to master: The Greenhouse, Solarium
-Merging interior to master: The Greenhouse, West Wing
-Merging interior to master: The Greenhouse, East Wing
-Merging object to master: background
-Copying object to master: melvin
-Merging object to master: the garden
-Copying object to master: 
-Merging object to master: the duchess
-Merging object to master: my trade
-Merging object to master: misfortune
-Merging object to master: service refusal
-Merging object to master: greeting 1
+Merging object to master: ACTI x32_Beast_Activ
+Merging object to master: SCPT x32_JW_Beastgreet
+Copying object to master: SCPT x32_BeastVanish_s
+Copying object to master: ACTI x32_Beast_Vanish
+Merging interior to master: x32_mdTestCell_in
+Merging interior to master: The Greenhouse, Vestibule
 Saving results...
 Finished!
