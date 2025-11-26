@@ -60,6 +60,7 @@ Mandrake - Golden pitcher
 Daemacht - Sparkly VFX on gold swords
 Wazabear - Skybox star texture
 freesound\_community - Shrine Sound Effect
+shahan - Nebulous atronach model
 "3D Character: Creepy Statue" (https://skfb.ly/pB8NW) by General of Thailand is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 "3D Asset: Creepy Statue" (https://skfb.ly/pBusE) by General of Thailand is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
