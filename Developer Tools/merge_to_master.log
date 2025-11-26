@@ -1,10 +1,9 @@
 Merging plugins...
-Copying object to master: CONT x32_o_BrUrnLoot02
-Copying object to master: CONT x32_o_BrUrnLoot01
-Copying object to master: CONT x32_o_BrUrnLoot03
-Copying object to master: CONT x32_o_BrUrnLoot04
-Merging interior to master: The Garden, Tower
+Merging object to master: LIGH x32_Light_BlkLantern500_flame
+Copying object to master: CREA x32_Dae_AtronachNebula
 Merging interior to master: x32_mdTestCell_blk
 Merging interior to master: The Garden, Corpse Fields
+Merging interior to master: x32 crystal room
+Removed deleted interior: x32 crystal room
 Saving results...
 Finished!
