@@ -1,11 +1,14 @@
 Merging plugins...
-Copying object to master: WEAP x32_w_ShardDagger
-Copying object to master: WEAP x32_w_ShardSword
-Copying object to master: WEAP x32_w_ShardSpear
-Copying object to master: LEVI x32_lvl_w_Fractured
-Copying object to master: WEAP x32_w_ShardAxe
-Merging interior to master: x32_mdTestCell_blk
-Copying interior to master: x32 crystal room
-Removed deleted interior: x32 crystal room
+Copying object to master: ACTI x32_BirdSoundTrigger01
+Copying object to master: ACTI x32_ForestSound
+Copying object to master: ACTI x32_BirdSoundTrigger02
+Copying object to master: SCPT x32_ForestAmbience
+Copying object to master: SCPT x32_BirdsSoundMine01
+Copying object to master: LIGH x32_Light_Logpile750
+Copying object to master: LIGH x32_Light_Glowbug01_Big
+Copying object to master: SCPT x32_BirdsSoundMine02
+Merging interior to master: The Garden, Rooted Ecstasy
+Merging interior to master: The Garden, Rooted Fantasy
+Merging interior to master: The Garden, Rooted Memory
 Saving results...
 Finished!
