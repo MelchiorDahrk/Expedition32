@@ -1,9 +1,11 @@
 Merging plugins...
-Merging object to master: LIGH x32_Light_BlkLantern500_flame
-Copying object to master: CREA x32_Dae_AtronachNebula
+Copying object to master: WEAP x32_w_ShardDagger
+Copying object to master: WEAP x32_w_ShardSword
+Copying object to master: WEAP x32_w_ShardSpear
+Copying object to master: LEVI x32_lvl_w_Fractured
+Copying object to master: WEAP x32_w_ShardAxe
 Merging interior to master: x32_mdTestCell_blk
-Merging interior to master: The Garden, Corpse Fields
-Merging interior to master: x32 crystal room
+Copying interior to master: x32 crystal room
 Removed deleted interior: x32 crystal room
 Saving results...
 Finished!
