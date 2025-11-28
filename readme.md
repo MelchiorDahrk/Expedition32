@@ -112,7 +112,8 @@ Improved lots of assets
 Made gold swords sparkly
 Added nebulous atronachs
 SSQN, CSO, and Ashfall interops
-Added new feature to the Shifting Hollow 
+Added new feature to the Shifting Hollow
+Fixed void ghost death animation
 
 
 1.1.0
