@@ -12,7 +12,7 @@ if ashfall then
     }
 
     ashfall.registerWaterContainers{
-        x32_Misc_GardenWateringCan = "flask"
+        x32_Misc_GardenWateringCan = { capacity = 200 },
     }
 
     ashfall.registerFoods{
