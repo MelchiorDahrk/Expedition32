@@ -1,23 +1,12 @@
 Merging plugins...
-Copying object to master: SCPT x32_PuzzleBasin_Mem01_s
-Copying object to master: ACTI x32_In_PuzzleBasin_Fan01
-Copying object to master: ACTI x32_In_PuzzleBasin_Fan02
-Copying object to master: ACTI x32_In_PuzzleTree_Fan02
-Copying object to master: ACTI x32_In_PuzzleTree_Fan03
-Copying object to master: SCPT x32_PuzzleBasin_Fan04_s
-Copying object to master: ACTI x32_In_PuzzleTree_Fan04
-Copying object to master: ACTI x32_In_PuzzleTree_Fan01
-Copying object to master: ACTI x32_In_PuzzleBasin_Mem02
-Copying object to master: ACTI x32_In_PuzzleTree_Mem01
-Copying object to master: ACTI x32_In_PuzzleBasin_Fan04
-Copying object to master: SCPT x32_PuzzleBasin_Mem02_s
-Copying object to master: SCPT x32_PuzzleBasin_Fan03_s
-Copying object to master: SCPT x32_PuzzleBasin_Fan01_s
-Copying object to master: ACTI x32_In_PuzzleBasin_Mem01
-Copying object to master: SCPT x32_PuzzleBasin_Fan02_s
-Copying object to master: ACTI x32_In_PuzzleBasin_Fan03
-Merging interior to master: The Garden, Rooted Ecstasy
-Merging interior to master: The Garden, Rooted Memory
-Merging interior to master: The Garden, Rooted Fantasy
+Copying object to master: SOUN x32_PitcherFilling
+Merging object to master: SCPT x32_PuzzleBasin_Fan01_s
+Merging object to master: SCPT x32_PuzzleBasin_Fan04_s
+Merging object to master: SCPT x32_PuzzleBasin_Mem01_s
+Copying object to master: SOUN x32_WaterSpringLoop
+Copying object to master: SOUN x32_PitcherPouring
+Merging object to master: SCPT x32_PuzzleBasin_Mem02_s
+Merging object to master: SCPT x32_PuzzleBasin_Fan02_s
+Merging object to master: SCPT x32_PuzzleBasin_Fan03_s
 Saving results...
 Finished!
