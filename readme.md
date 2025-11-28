@@ -107,7 +107,7 @@ Added the Nursery
 Added Melvin
 Added new weapon set to the Corpse Fields
 Tweaks to the Corpse Fields cell including new loot
-Added a new side realm
+Added a new puzzle side realm
 Improved lots of assets
 Made gold swords sparkly
 Added nebulous atronachs
