@@ -1,7 +1,7 @@
 ---@type IDPresenceMap
 local TheGardenCells = {
-    ['The Garden, Tower'] = true,
-    ['The Garden, Corpse Fields'] = true,
+    ['the garden, tower'] = true,
+    ['the garden, corpse fields'] = true,
 }
 
 local function theGardenRule(playback)
