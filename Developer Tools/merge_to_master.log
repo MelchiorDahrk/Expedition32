@@ -1,6 +1,21 @@
 Merging plugins...
-Copying object to master: STAT x32_In_WhiteRuinTowerLight01
-Copying object to master: LIGH x32_Light_Tower
-Merging interior to master: The Garden, Tower
+Merging object to master: LIGH x32_light@_Day500
+Merging object to master: NPC_ x32_Melvin
+Merging object to master: SCPT x32_Melvin_s
+Merging object to master: LIGH x32_light@_Day300
+Merging interior to master: The Greenhouse, Vestibule
+Copying interior to master: The Greenhouse, Guest Quarters
+Merging interior to master: The Greenhouse, North Wing
+Merging interior to master: The Greenhouse, Palmarium
+Merging interior to master: The Greenhouse, Boudoir of The Duchess
+Merging interior to master: The Greenhouse, Gallery
+Merging interior to master: The Garden, Rooted Ecstasy
+Merging interior to master: The Greenhouse, Nursery
+Merging interior to master: The Greenhouse, Storage Cupboard
+Merging interior to master: The Greenhouse, Atrium
+Merging interior to master: The Garden, White Cliffs
+Merging interior to master: The Greenhouse, Solarium
+Merging interior to master: The Greenhouse, Lab
+Merging object to master: greeting 1
 Saving results...
 Finished!
