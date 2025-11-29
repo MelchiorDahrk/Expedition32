@@ -106,7 +106,8 @@ Added the Tower Penthouse
 Added the Nursery
 Added Melvin
 Added new weapon set to the Corpse Fields
-Tweaks to the Corpse Fields cell including new loot
+Additional detailing and tweaks to the Corpse Fields cell including new loot
+Additional detailing and tweaks to the Tower cell
 Added a new puzzle side realm
 Improved lots of assets
 Made gold swords sparkly
@@ -124,6 +125,7 @@ Improved object placement in monastery
 Replaced some objects without names
 Improved appearance of mini map in some areas
 Added new lore book to final area
+Added new nebula side realm
 
 1.1.0
 Fixed the bed script
