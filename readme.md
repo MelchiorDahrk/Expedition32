@@ -117,6 +117,13 @@ Fixed void ghost death animation
 Combined Greenhouse wings into the Atrium
 Fixed misplaced doormarkers on minimap in The Greenhouse
 Added final blessing if you find all of the decorated walls in White Cliffs
+Added guest quarters to Greenhouse
+Improved object placement in the greenhouse
+Added path grids to greenhouse and monastery
+Improved object placement in monastery
+Replaced some objects without names
+Improved appearance of mini map in some areas
+Added new lore book to final area
 
 1.1.0
 Fixed the bed script
