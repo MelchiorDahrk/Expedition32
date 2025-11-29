@@ -39,6 +39,7 @@ Greatness7 - Asset troubleshooting help
 DJMaesen - Red-leaved tree model
 zackg - Red leaves source texture
 Greatness7 - Blender plugin
+S3ctor - Help with the s3maphore integration
 css0101 - Ancient Elven Furniture
 spicybamer - Ivy texture
 T_i_a_D - Bush leaf texture

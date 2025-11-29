@@ -1,0 +1,13 @@
+{
+    "folder" : "TGoD Corpse",
+    "queued" : false,
+	"priority" : 5,
+    "cellNamePart":
+    [
+        "The Garden, Tower",
+        "The Garden, Corpse Fields",
+    ],
+    "cellNameExclude":
+    [
+    ]
+}
