@@ -1,8 +1,6 @@
 Merging plugins...
-Merging object to master: CONT x32_o_GardenDrawer
-Merging object to master: CONT x32_o_GardenTable
-Merging object to master: CONT x32_o_GardenDesk
-Merging object to master: CONT x32_o_GardenCupboard
-Copying object to master: LEVI x32_lvl_GreenhouseLoot
+Copying object to master: STAT x32_In_WhiteRuinTowerLight01
+Copying object to master: LIGH x32_Light_Tower
+Merging interior to master: The Garden, Tower
 Saving results...
 Finished!
