@@ -1,30 +1,8 @@
 Merging plugins...
-Copying object to master: SCPT x32_GHKeyEntryPurple
-Copying object to master: MISC x32_Key_FloralPurple
-Merging object to master: NPC_ x32_JW_TheProtagonist
-Copying object to master: DOOR x32_Door_GH_PurpleKey
-Copying object to master: SCPT x32_DoorNursery_s
-Copying object to master: BOOK x32_MisfortuneNotebook
-Merging interior to master: Monastery of Mephala
-Merging interior to master: The Greenhouse, East Wing
-Merging interior to master: The Greenhouse, Gallery
-Merging interior to master: The Greenhouse, Bathhouse
-Merging interior to master: The Greenhouse, Lab
-Merging interior to master: The Greenhouse, Solarium
-Merging interior to master: The Greenhouse, Palmarium
-Merging interior to master: x32_mdTestCell_in
-Merging interior to master: The Greenhouse, Boudoir of The Duchess
-Merging interior to master: The Greenhouse, North Wing
-Merging interior to master: The Greenhouse, West Wing
-Merging interior to master: The Greenhouse, Vestibule
-Merging interior to master: The Greenhouse, Guest Quarters
-Merging interior to master: The Greenhouse, Storage Cupboard
-Merging interior to master: Monastery of Mephala, Quarters
-Merging interior to master: x32_mdTestCell_ex
-Merging interior to master: Monastery of Mephala, Contemplation
-Merging interior to master: Monastery of Mephala, Refectory
-Merging interior to master: The Greenhouse, Nursery
-Merging interior to master: The Greenhouse, Atrium
-Merging interior to master: The Greenhouse, Atelier
+Copying object to master: LIGH x32_light_wr_twr01
+Copying object to master: SCPT x32_8000_Disable
+Copying object to master: LIGH x32_Light_Fire_512_Twr
+Copying object to master: LIGH x32_orange light_twr
+Merging interior to master: The Garden, Tower
 Saving results...
 Finished!
