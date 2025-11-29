@@ -101,6 +101,7 @@ Improved lighting and object placement in Shards of Time
 Tweaked The Duchess wandering
 Added sound effect to narration
 Improved pathing in White Cliffs
+Improved White Cliff detailing
 Added quests to the Last Harbor cell
 Added SFX to the elevator ending
 Added the Tower Penthouse
