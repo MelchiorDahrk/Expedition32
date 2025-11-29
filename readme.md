@@ -35,6 +35,7 @@ This mod adds a Velothi tower entrance to 17,-3 and 17,-4. This might conflict w
 ## Credits
 Lucevar - Special thanks for consulting! Honorary team member
 Scipio - Music for the Corpse Fields
+Greatness7 - Asset troubleshooting help
 DJMaesen - Red-leaved tree model
 zackg - Red leaves source texture
 Greatness7 - Blender plugin
@@ -61,8 +62,7 @@ Daemacht - Sparkly VFX on gold swords
 Wazabear - Skybox star texture
 freesound\_community - Shrine Sound Effect
 shahan - Nebulous atronach model
-"3D Character: Creepy Statue" (https://skfb.ly/pB8NW) by General of Thailand is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-"3D Asset: Creepy Statue" (https://skfb.ly/pBusE) by General of Thailand is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+General of Thailand - "3D Character: Creepy Statue" (https://skfb.ly/pB8NW) and "3D Asset: Creepy Statue" (https://skfb.ly/pBusE)
 
 ## Usage
 You are free to:
