@@ -1,21 +1,10 @@
 Merging plugins...
-Merging object to master: LIGH x32_light@_Day500
-Merging object to master: NPC_ x32_Melvin
-Merging object to master: SCPT x32_Melvin_s
-Merging object to master: LIGH x32_light@_Day300
-Merging interior to master: The Greenhouse, Vestibule
-Copying interior to master: The Greenhouse, Guest Quarters
-Merging interior to master: The Greenhouse, North Wing
-Merging interior to master: The Greenhouse, Palmarium
-Merging interior to master: The Greenhouse, Boudoir of The Duchess
-Merging interior to master: The Greenhouse, Gallery
-Merging interior to master: The Garden, Rooted Ecstasy
-Merging interior to master: The Greenhouse, Nursery
-Merging interior to master: The Greenhouse, Storage Cupboard
-Merging interior to master: The Greenhouse, Atrium
-Merging interior to master: The Garden, White Cliffs
-Merging interior to master: The Greenhouse, Solarium
-Merging interior to master: The Greenhouse, Lab
-Merging object to master: greeting 1
+Copying object to master: CREA x32_Und_AshenKag_Boss
+Merging object to master: SCPT x32_JW_Beastgreet
+Copying object to master: CREA x32_Und_AshenHusk_Boss1
+Merging object to master: SCPT x32_JW_BossBattle01
+Copying object to master: CREA x32_Und_AshenHusk_Boss2
+Merging object to master: CREA x32_Cre_Beast
+Merging interior to master: The Garden, Corpse Fields
 Saving results...
 Finished!
