@@ -114,6 +114,7 @@ Added nebulous atronachs
 SSQN, CSO, and Ashfall interops
 Added new feature to the Shifting Hollow
 Fixed void ghost death animation
+Combined Greenhouse wings into the Atrium
 
 
 1.1.0
