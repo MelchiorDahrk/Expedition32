@@ -1,8 +1,4 @@
 Merging plugins...
-Copying object to master: LIGH x32_light_wr_twr01
-Copying object to master: SCPT x32_8000_Disable
-Copying object to master: LIGH x32_Light_Fire_512_Twr
-Copying object to master: LIGH x32_orange light_twr
-Merging interior to master: The Garden, Tower
+Merging object to master: SCPT x32_RotateSkyBox
 Saving results...
 Finished!
