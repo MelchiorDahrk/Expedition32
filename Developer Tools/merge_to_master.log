@@ -1,22 +1,30 @@
 Merging plugins...
-Merging object to master: SPEL x32_WhiteRuinShrineSpell01
-Merging object to master: SPEL x32_WhiteRuinShrineSpell11
-Copying object to master: BOOK x32_sc_PrayerWhiteTower
-Merging object to master: SPEL x32_WhiteRuinShrineSpell04
-Merging object to master: SPEL x32_WhiteRuinShrineSpell08
-Merging object to master: SPEL x32_WhiteRuinShrineSpell05
-Merging object to master: SPEL x32_WhiteRuinShrineSpell06
-Merging object to master: SPEL x32_WhiteRuinShrineSpell07
-Merging object to master: SPEL x32_WhiteRuinShrineSpell09
-Merging object to master: SPEL x32_WhiteRuinShrineSpell02
-Copying object to master: SPEL x32_WhiteRuinShrinePower
-Copying object to master: ACTI x32_Act_WhiteRuinShrineTracker
-Merging object to master: SCPT x32_WhiteRuinShrineScript
-Merging object to master: SPEL x32_WhiteRuinShrineSpell10
-Merging object to master: SPEL x32_WhiteRuinShrineSpell12
-Copying object to master: SCPT x32_WhiteRuinShrineTracker_s
-Merging object to master: SPEL x32_WhiteRuinShrineSpell03
-Merging object to master: ACTI x32_WhiteRuinWallShrine01
-Merging interior to master: The Garden, White Cliffs
+Copying object to master: SCPT x32_GHKeyEntryPurple
+Copying object to master: MISC x32_Key_FloralPurple
+Merging object to master: NPC_ x32_JW_TheProtagonist
+Copying object to master: DOOR x32_Door_GH_PurpleKey
+Copying object to master: SCPT x32_DoorNursery_s
+Copying object to master: BOOK x32_MisfortuneNotebook
+Merging interior to master: Monastery of Mephala
+Merging interior to master: The Greenhouse, East Wing
+Merging interior to master: The Greenhouse, Gallery
+Merging interior to master: The Greenhouse, Bathhouse
+Merging interior to master: The Greenhouse, Lab
+Merging interior to master: The Greenhouse, Solarium
+Merging interior to master: The Greenhouse, Palmarium
+Merging interior to master: x32_mdTestCell_in
+Merging interior to master: The Greenhouse, Boudoir of The Duchess
+Merging interior to master: The Greenhouse, North Wing
+Merging interior to master: The Greenhouse, West Wing
+Merging interior to master: The Greenhouse, Vestibule
+Merging interior to master: The Greenhouse, Guest Quarters
+Merging interior to master: The Greenhouse, Storage Cupboard
+Merging interior to master: Monastery of Mephala, Quarters
+Merging interior to master: x32_mdTestCell_ex
+Merging interior to master: Monastery of Mephala, Contemplation
+Merging interior to master: Monastery of Mephala, Refectory
+Merging interior to master: The Greenhouse, Nursery
+Merging interior to master: The Greenhouse, Atrium
+Merging interior to master: The Greenhouse, Atelier
 Saving results...
 Finished!
