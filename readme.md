@@ -129,6 +129,7 @@ Improved appearance of mini map in some areas
 Added new lore book to final area
 Added new nebula side realm
 Redistributed Celestine
+Added golden sword weapon
 
 1.1.0
 Fixed the bed script
