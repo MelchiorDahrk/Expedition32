@@ -115,7 +115,8 @@ SSQN, CSO, and Ashfall interops
 Added new feature to the Shifting Hollow
 Fixed void ghost death animation
 Combined Greenhouse wings into the Atrium
-
+Fixed misplaced doormarkers on minimap in The Greenhouse
+Added final blessing if you find all of the decorated walls in White Cliffs
 
 1.1.0
 Fixed the bed script
