@@ -124,6 +124,7 @@ Added guest quarters to Greenhouse
 Improved object placement in the greenhouse
 Added path grids to greenhouse and monastery
 Improved object placement in monastery
+Tweaked NPC aggression in monastery
 Replaced some objects without names
 Improved appearance of mini map in some areas
 Added new lore book to final area

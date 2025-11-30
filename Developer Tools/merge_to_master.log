@@ -1,12 +1,14 @@
 Merging plugins...
-Copying object to master: SOUN x32_KagiounRoar
-Copying object to master: SOUN x32_KagiounScream
-Merging object to master: CREA x32_Cre_KagiounAlpha_Q2
-Merging object to master: CREA x32_Cre_Kagioun
-Copying object to master: SNDG x32_Cre_Kagioun0005
-Copying object to master: SNDG x32_Cre_Kagioun0006
-Merging object to master: CREA x32_Cre_Kagioun_Duel
-Copying object to master: SOUN x32_KagiounMoan
-Merging object to master: CREA x32_Cre_KagiounAlpha
+Merging object to master: SCPT x32_MTViolence
+Merging object to master: SCPT X32_StudentDuel1_s
+Merging object to master: SCPT X32_StudentDuel2_s
+Merging object to master: NPC_ X32_NobleStudent
+Copying object to master: SCPT x32_MTViolenceNoble
+Merging object to master: SCPT x32_MTViolenceGate
+Merging interior to master: The Greenhouse, Guest Quarters
+Merging interior to master: Monastery of Mephala
+Merging object to master: tirele varas
+Merging object to master: the garden
+Merging object to master: writ
 Saving results...
 Finished!
