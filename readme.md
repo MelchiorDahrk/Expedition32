@@ -106,6 +106,7 @@ Then you are free to copy and redistribute the material in its entirety for use 
 Some objects in the White Cliffs do not look right in distant land with MGE XE
 Custom music does not currently work with MWSE due to issues with the MUSE interop (not currently included)
 SSQN interops may not work with all side quests
+Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 
 ## Changelog
 

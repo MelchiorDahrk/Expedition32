@@ -47,9 +47,33 @@ To start the main quest;
 
 ### The Mind Races
 
+- A spirit will ask you to find their boots
+- Enter the Haunted Void and fight your way to a goblin in a side room
+- Goblin will tell you where to find the boots (they're not inside of a container, they're hidden under the lid of an open box)
+- Take the boots back to the spirit to complete the quest
+- The return to the goblin to get the key to the Atelier
+
+### Secret Brazier Puzzle
+
+- Once you unlock the Atelier, you'll find a journal on a shelf with a drawing in it
+- The drawing shows you a secret pattern to light the braziers in `The Garden, Tower` cell
+- Completing that pattern (using more Celestine) will reward the player
+- If there's not enough celestine in the Tower cell, you will find more in the Corpse Fields
+
+### Rooted Puzzle Realm
+
+- You use the golden pitcher to move water between water pools
+- Each pool grows a particular tree in the cell when filled
+- The Fantasy cell has a hidden underwater tunnel to access another area
+
 ### Zadavi’s Tent
 
+- Collect 3 kagioun hides for Zadavi.
+
 ### Zadavi’s Pillows
+
+- Steal 3 pillows from The Greenhouse for Zadavi.
+- They can all be found in `The Greenhouse, Boudoir of The Duchess`.
 
 ## The Morag Tong
 
@@ -68,7 +92,7 @@ To start the main quest;
 		- The Master of Conquered Doubt will hand you a ledger to pass along.
 - Return to the Master when introduction are done to receive your writ.
 
-### Writ for Raynil	_+	A Study in Subtlety
+### Writ for Raynil	+A Study in Subtlety
 
 The quest and writ are tied together.
 
@@ -104,7 +128,8 @@ The quest and writ are tied together.
 
 ### Cleaning House
 
-- 
+- Bring the master his ledger and a quill
+- Complete the writ
 
 ## Monastery Side Quests.
 
