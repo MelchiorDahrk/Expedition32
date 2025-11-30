@@ -147,8 +147,8 @@ Added more painting items
 Improved the lightning for the entrance of the The Garden, Tower.
 Fixed the animated fake doors in the Garden, Shifting Halls for OpenMW.
 Added pathgrid to The Garden, Tower cell.
-
 Added pathgrid to The Garden, White Cliffs cell.
+Added final cell
 
 1.1.0
 Fixed the bed script
