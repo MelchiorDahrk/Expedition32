@@ -33,37 +33,37 @@ This mod adds a Velothi tower entrance to 17,-3 and 17,-4. This might conflict w
 02 Music (OpenMW - S3maphore)
 
 ## Credits
-Lucevar - Special thanks for consulting! Honorary team member
-Scipio - Music for the Corpse Fields
-Greatness7 - Asset troubleshooting help
-DJMaesen - Red-leaved tree model
-zackg - Red leaves source texture
-Greatness7 - Blender plugin
-S3ctor - Help with the s3maphore integration
-css0101 - Ancient Elven Furniture
-spicybamer - Ivy texture
-T_i_a_D - Bush leaf texture
-BaptisteBerard - autumn bush 00
 Amal Kumar - Rocky trail texture
+BaptisteBerard - autumn bush 00
+ChooChinTian - garden chest
+css0101 - Ancient Elven Furniture
+Daemacht - Sparkly VFX on gold swords
 Dario Barresi - Rock face texture
-Nillusion, Kullamannen, Ole Gunnar Isager, sleepyUnicorn, and Rohit3DAsset - golden swords
+DJMaesen - Red-leaved tree model
+freesound_community - Shrine Sound Effect
+General of Thailand - "3D Character: Creepy Statue" (https://skfb.ly/pB8NW) and "3D Asset: Creepy Statue" (https://skfb.ly/pBusE)
+Greatness7 - Asset troubleshooting help
 Jefferson Frenay - modular rocks
+Jordan F - Trinket box
+Katherina - Watering can
+Lucevar - Special thanks for consulting! Honorary team member
+Mandrake - Golden pitcher
+mateochoque - garden set divider
+Nillusion, Kullamannen, Ole Gunnar Isager, sleepyUnicorn, and Rohit3DAsset - golden swords
+Ogrebane - Kagioun sound effects
 Peter Nox - Kagioun and ancient vases
 Polyhaven - Textures
-Runspect - Classic Statue
-mateochoque - garden set divider
-ChooChinTian - garden chest
-Katherina - Watering can
-Jordan F - Trinket box
-Ruffin Vangarr - A dark elf guy head and hair
-Shriker1 - Morag Tong dagger
 Rotat - Creature VFX Restoration
-Mandrake - Golden pitcher
-Daemacht - Sparkly VFX on gold swords
-Wazabear - Skybox star texture
-freesound\_community - Shrine Sound Effect
+Ruffin Vangarr - A dark elf guy head and hair
+Runspect - Classic Statue
+S3ctor - Help with the s3maphore integration
+Scipio - Music for the Corpse Fields
 shahan - Nebulous atronach model
-General of Thailand - "3D Character: Creepy Statue" (https://skfb.ly/pB8NW) and "3D Asset: Creepy Statue" (https://skfb.ly/pBusE)
+Shriker1 - Morag Tong dagger
+spicybamer - Ivy texture
+T_i_a_D - Bush leaf texture
+Wazabear - Skybox star texture
+zackg - Red leaves source texture
 
 ## Usage
 You are free to:
@@ -131,6 +131,7 @@ Added new nebula side realm
 Redistributed Celestine
 Added golden sword weapon
 Improved white cliff terrain UVs
+Added more painting items
 
 1.1.0
 Fixed the bed script
