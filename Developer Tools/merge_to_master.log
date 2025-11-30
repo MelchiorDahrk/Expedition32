@@ -1,18 +1,22 @@
 Merging plugins...
-Merging object to master: SCPT x32_JW_Finaldoor
-Copying object to master: NPC_ x32_Duchess_outro
-Merging object to master: SCPT x32_DuchessScript
-Merging object to master: NPC_ x32_Duchess
-Copying interior to master: The Garden, Ethos Shrine
-Copying interior to master: The Garden, Nerevar Shrine
-Merging interior to master: Nerevar Shrine
-Copying interior to master: The Garden, Shrine of Ethos
+Merging object to master: SCPT x32_Medalum_s
+Merging object to master: LIGH x32_GoldThreadMk2
+Copying object to master: LIGH x32_Light@_Nefarious200
+Merging object to master: BOOK x32_bk_oldbook
+Merging object to master: MISC x32_Key_FloralPurple
+Merging object to master: CREA x32_Dae_AtronachNefar
+Merging object to master: SCPT x32_GoldThreadActJournal_s
+Merging object to master: SCPT x32_GHKeyEntryPurple
+Merging object to master: DOOR x32_Door_GH_PurpleKey
+Merging object to master: MISC x32_GoldThread
+Merging interior to master: The Greenhouse, Nursery
+Merging interior to master: The Garden, Corpse Fields
+Merging interior to master: The Garden, Rooted Fantasy
+Merging interior to master: The Greenhouse, Atrium
+Merging interior to master: The Greenhouse, Gallery
+Merging interior to master: The Greenhouse, Guest Quarters
+Merging interior to master: The Garden, Rooted Ecstasy
+Merging object to master: my trade
 Merging object to master: greeting 1
-Merging object to master: x32_mq
-Copying object to master: 
-Copying object to master: ethos shrine
-Removed deleted interior: Nerevar Shrine
-Removed deleted interior: The Garden, Shrine of Ethos
-Removed deleted interior: The Garden, Nerevar Shrine
 Saving results...
 Finished!
