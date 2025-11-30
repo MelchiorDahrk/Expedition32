@@ -1,14 +1,20 @@
 Merging plugins...
-Merging object to master: SCPT x32_MTViolence
-Merging object to master: SCPT X32_StudentDuel1_s
-Merging object to master: SCPT X32_StudentDuel2_s
-Merging object to master: NPC_ X32_NobleStudent
-Copying object to master: SCPT x32_MTViolenceNoble
-Merging object to master: SCPT x32_MTViolenceGate
-Merging interior to master: The Greenhouse, Guest Quarters
-Merging interior to master: Monastery of Mephala
-Merging object to master: tirele varas
-Merging object to master: the garden
-Merging object to master: writ
+Copying object to master: LIGH x32_Light_goldensword
+Copying object to master: CREA x32_NebulousMonarchs
+Copying object to master: SOUN x32_MonarchBreath02
+Copying object to master: SOUN x32_MonarchBreath03
+Copying object to master: SCPT x32_GoldenSword_s
+Merging object to master: SCPT x32_BlackRuin_PzExit_s
+Copying object to master: SCPT x32_NebulaRealm_s
+Merging object to master: DOOR x32_Door_BlackRuin_PzExit
+Copying object to master: SOUN x32_MonarchBreath01
+Copying object to master: ACTI x32_Act_NebulaRealm
+Copying object to master: SOUN x32_MonarchBreath04
+Merging interior to master: The Nebula Between Worlds
+Merging interior to master: The Garden, Corpse Fields
+Merging interior to master: The Garden, Tower
+Copying object to master: x32_mq_nebula
+Copying object to master: 
+Merging object to master: greeting 1
 Saving results...
 Finished!

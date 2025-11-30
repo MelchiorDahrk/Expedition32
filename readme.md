@@ -118,7 +118,6 @@ Added the Tower Penthouse
 Added the Nursery
 Added Melvin
 Added new weapon set to the Corpse Fields
-
 Added more variants for the lootcontainers in the Tower and Corpse fields cell.
 Additional detailing and tweaks to the Corpse Fields cell including new loot
 Additional detailing and tweaks to the Tower cell
@@ -145,11 +144,8 @@ Redistributed Celestine
 Added golden sword weapon
 Improved white cliff terrain UVs
 Added more painting items
-
 Improved the lightning for the entrance of the The Garden, Tower.
-
 Fixed the animated fake doors in the Garden, Shifting Halls for OpenMW.
-
 Added pathgrid for The Garden, Tower cell.
 
 1.1.0
