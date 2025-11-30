@@ -130,6 +130,7 @@ Added new lore book to final area
 Added new nebula side realm
 Redistributed Celestine
 Added golden sword weapon
+Improved white cliff terrain UVs
 
 1.1.0
 Fixed the bed script
