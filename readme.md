@@ -110,6 +110,9 @@ Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 
 ## Changelog
 
+1.2.1
+Added missing purple key model
+
 1.2.0
 Improved dialogue and journal entries
 Added SFX to crumbling room scene
