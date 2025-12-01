@@ -159,6 +159,7 @@ Fixed the animated fake doors in the Garden, Shifting Halls for OpenMW.
 Added pathgrid to The Garden, Tower cell.
 Added pathgrid to The Garden, White Cliffs cell.
 Added final cell
+Added custom music track
 
 1.1.0
 Fixed the bed script
