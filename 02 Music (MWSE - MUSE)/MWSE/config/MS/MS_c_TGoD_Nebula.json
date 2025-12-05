@@ -1,10 +1,12 @@
 {
-    "folder" : "TGoD Nebula",
+    "folder" : "TGoD_Nebula",
+	"requireHostiles" : false,
     "queued" : false,
 	"priority" : 5,
+	"instant" : true,
     "cellNamePart":
     [
-        "The Nebula Between Worlds",
+        "The Nebula Between Worlds"
     ],
     "cellNameExclude":
     [

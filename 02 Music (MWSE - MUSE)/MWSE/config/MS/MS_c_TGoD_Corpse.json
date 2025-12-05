@@ -1,11 +1,13 @@
 {
-    "folder" : "TGoD Corpse",
+    "folder" : "TGoD_Corpse",
+	"requireHostiles" : false,
     "queued" : false,
 	"priority" : 5,
+	"instant" : true,
     "cellNamePart":
     [
         "The Garden, Tower",
-        "The Garden, Corpse Fields",
+        "The Garden, Corpse Fields"
     ],
     "cellNameExclude":
     [
