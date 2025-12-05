@@ -109,6 +109,19 @@ SSQN interops may not work with all side quests
 Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 
 ## Changelog
+1.3.0
+Fixed some object placement in The Greenhouse
+Fixed some object placement in White Cliffs
+Fixed some object placement in the Monastery of Mephala
+Added the spooky whistle noise to two more of misfortunes dialogues
+Added the fall script to Ethos Shrine
+Fixed formatting of a letter
+Fixed addtopic for Master of Conquered Doubt
+Fixed typos in various monastery dialogues and journal entries
+Fixed filtering on Eno Hlaalu dialogue about the Monastery so he now gives you the rank appropriate version
+The first Writ dialogue could potentially fire off early, added an additional quest stage check and removed a stray addtopic to prevent this
+More greetings during Morag Tong quests to point you toward the next objective or topic
+Tweaked some Morag Tong NPC outfits
 
 1.2.1
 Added missing purple key model
