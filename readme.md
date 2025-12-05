@@ -123,6 +123,7 @@ Fixed filtering on Eno Hlaalu dialogue about the Monastery so he now gives you t
 The first Writ dialogue could potentially fire off early, added an additional quest stage check and removed a stray addtopic to prevent this
 More greetings during Morag Tong quests to point you toward the next objective or topic
 Tweaked some Morag Tong NPC outfits
+Fixed oil lamp flame location
 Added fomod
 
 1.2.1
