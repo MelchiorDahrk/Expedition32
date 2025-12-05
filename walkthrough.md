@@ -92,7 +92,7 @@ To start the main quest;
 		- The Master of Conquered Doubt will hand you a ledger to pass along.
 - Return to the Master when introduction are done to receive your writ.
 
-### Writ for Raynil	+A Study in Subtlety
+### Writ for Raynil		+	A Study in Subtlety
 
 The quest and writ are tied together.
 
@@ -116,7 +116,7 @@ The quest and writ are tied together.
 - Ask about your ‘Writ’.
 - You will again need to assign the students to writs. Read the second set and use your best judgement who to send to which job.
 	- Ask each student about ‘Writs’ and give them the one you think works best.
-		- Return to the Master of Overt violence to receive your writ.
+		- Return to the Master of Overt Violence to receive your writ.
 
 - Shepherd is in Gnisis. The Master suggests you could eliminate the rest of Shepherds gang but it is not a strict requirement. The people of the town will know more about their location.
 	- Shepherd is across the river from Gnisis in a small camp. His accomplices are across the river from 	the eastern exit to Gnisis, and up on the hill to the west of Gnisis.
@@ -128,29 +128,32 @@ The quest and writ are tied together.
 
 ### Cleaning House
 
-- Bring the master his ledger and a quill
-- Complete the writ
+- Speak to The Master of Conquered Doubt and ask about 'Assignments'. 
+- Bring the Master his ledger and a quill.
+	- You may either sign the Ledger or refuse, ending the questline.
+- Complete the writ.
+- Return to the Master for your reward.
 
 ## Monastery Side Quests.
 
 ### To Deliver
 
-- After making introductions during ‘The Monastery of Mephala’ talk to noble, they will ask you to deliver a letter to Ald-Ruhn.
+- After making introductions during ‘The Monastery of Mephala’ talk to Favil Ondor, they will ask you to deliver a letter to Ald-Ruhn.
 	- you may instead read the letter, and choose if you want to talk to the Masters about it instead of 	delivering it.
 	- If you take it to Doubt they will reward you a necklace and tell you to continue the delivery 		to avoid suspicion.
 - Deliver to rat in the pot
--return to Noble
+-return to Favil Ondor
 
 ### An Eighteen Drake Run of Bad Luck
 
-- After making introductions during ‘The Monastery of Mephala’ talk to either sibling, they want you to pick up a dead drop near Sadrith Mora. 
+- After making introductions during ‘The Monastery of Mephala’ talk to either of the Sedrin siblings, they want you to pick up a dead drop near Sadrith Mora. 
 - go to the beach south west of Sadrith Mora, 19,3. Look for a small iron box marked by a red lantern.
 - when you open the box you will be ambushed.
-	-if you kill the ambusher you will get slightly different dialogue later and anenchanted ring off their 	body.
+	-if you kill the ambusher you will get slightly different dialogue later and anenchanted ring off their body.
 	- if you open the letter a new path opens to report its contents to the Master of Conquered Doubt.
 
 - Take the letter to whoever you believe should have it.
-	-siblings give gold and glass throwing knives
+	-siblings give gold and glass throwing knives.
 	- Master gives an enchanted ring.
 
-- If you opened the missive then the Siblings will ambush you in your sleep at a random time later, but only once you complete or permanently fail the monastery quests
+- If you opened the missive then the Sedrin Siblings will ambush you in your sleep at a random time later, but only once you complete or permanently fail the monastery quests
