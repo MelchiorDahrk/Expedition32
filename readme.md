@@ -109,6 +109,11 @@ SSQN interops may not work with all side quests
 Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 
 ## Changelog
+1.3.1
+Fixed filtering for "Assignments" topic which could break the writ quests
+Marked journal X32_MTMWritTwoStudents indices as finished
+Corrected typo in X32_DoubtWritSelf
+
 1.3.0
 Added MUSE interop
 Fixed some object placement in The Greenhouse
