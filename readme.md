@@ -113,6 +113,7 @@ Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 Fixed filtering for "Assignments" topic which could break the writ quests
 Marked journal X32_MTMWritTwoStudents indices as finished
 Corrected typo in X32_DoubtWritSelf
+Made the global script end after the quest completes
 
 1.3.0
 Added MUSE interop
