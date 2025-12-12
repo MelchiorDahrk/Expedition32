@@ -109,6 +109,14 @@ SSQN interops may not work with all side quests
 Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 
 ## Changelog
+1.3.2
+Fixed fall script in The Garden
+Fixed sme typos and dialogue filtering
+Improved wording for clarity
+Added ownership to objects which were missing it in the monastery
+Improved cluttering in monastery quarters
+Fixed placement of water lanterns in monastery
+
 1.3.1
 Fixed filtering for "Assignments" topic which could break the writ quests
 Marked journal X32_MTMWritTwoStudents indices as finished
