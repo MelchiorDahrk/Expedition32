@@ -109,6 +109,11 @@ SSQN interops may not work with all side quests
 Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 
 ## Changelog
+
+1.3.3
+
+Fixed a greeting for the Duel Side Quest to make it fire properly.
+
 1.3.2
 Fixed fall script in The Garden
 Fixed sme typos and dialogue filtering
