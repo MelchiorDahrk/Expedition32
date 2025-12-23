@@ -19,12 +19,12 @@ Seelof
 
 ## Getting Started
 
-Talk to anyone about Latest Rumors.
+Talk to a member of the Morag Tong or Temple about Latest Rumors.
 
 ## Requirements
 
-OAAB\_Data version 2.5.0 or later.
-Tamriel\_Data version 25.0 or later.
+OAAB_Data version 2.5.0 or later.
+Tamriel_Data version 25.0 or later.
 
 ## Compatibility
 
@@ -111,8 +111,22 @@ Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 ## Changelog
 
 1.3.3
-
-Fixed a greeting for the Duel Side Quest to make it fire properly.
+Fixed a greeting for the Duel Side Quest to make it fire properly
+Silenced the Morag Tong fighters in the Monastery
+Improved placement of side quest doors in the white cliffs area
+Added better collision to floating tiles
+Fixed white cliffs shrine audio in OpenMW
+Fixed some typos
+Gave Melvin some basic spells for sale
+Filtered the quest start rumor to come from Temple or Morag Tong members
+Delayed the first narration pop up in the white cliffs area
+Improved object placement in The Greenhouse Atrium
+Cleaned up some out-of-bounds objects to improve performance in tower cell
+Dialogue tweaks to Morag Tong NPCs
+Better training options from the Morag Tong Masters in the Monastery
+Raised lock value on a door in the Monastery
+Fixed hole in the wall of Shards of Time
+Added painting to get back to the Shards of Time cell
 
 1.3.2
 Fixed fall script in The Garden
