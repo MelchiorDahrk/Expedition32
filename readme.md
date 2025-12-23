@@ -50,7 +50,7 @@ Dario Barresi - Rock face texture
 DJMaesen - Red-leaved tree model
 freesound\_community - Shrine Sound Effect
 General of Thailand - "3D Character: Creepy Statue" (https://skfb.ly/pB8NW) and "3D Asset: Creepy Statue" (https://skfb.ly/pBusE)
-Greatness7 - Asset troubleshooting help
+Greatness7 - Asset troubleshooting help and creating the "dropcursortile" lua code
 Jefferson Frenay - modular rocks
 Jordan F - Trinket box
 Katherina - Watering can
