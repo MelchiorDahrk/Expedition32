@@ -1,8 +1,31 @@
 Merging plugins...
-Merging object to master: x32_mtmsummon
-Merging object to master: x32_mtmwritfinal
-Merging object to master: assignments
+Merging object to master: BOOK X32_WritLedgerDoubt
+Merging object to master: SOUN x32_WhiteRuinShrineSound
+Merging object to master: NPC_ x32_Melvin
+Merging object to master: NPC_ X32_SparStudent1
+Merging object to master: NPC_ X32_SubtleMaster
+Merging object to master: NPC_ X32_ViolentMaster
+Merging object to master: NPC_ X32_DoubtMaster
+Merging object to master: SPEL x32_sp_Melvin
+Merging object to master: NPC_ X32_SparStudent2
+Copying object to master: DOOR x32_Door_PaintingShards
+Merging interior to master: The Garden, Shards of Time
+Merging interior to master: The Garden, Haunted Void
+Merging interior to master: The Garden, White Cliffs
+Merging interior to master: The Garden, Rooted Memory
+Merging interior to master: The Greenhouse, Atrium
+Merging interior to master: The Garden, Tower
+Merging interior to master: The Garden, Shifting Hollow
+Merging interior to master: The Garden, Faded Pavilion
+Merging interior to master: Monastery of Mephala, Quarters
+Merging object to master: attack
+Merging object to master: greeting 1
+Merging object to master: savyn sedrin
+Merging object to master: greeting 0
 Merging object to master: writ
-Merging object to master: greeting 5
+Merging object to master: favil ondor
+Merging object to master: llersa drilith
+Merging object to master: latest rumors
+Merging object to master: varyn sedrin
 Saving results...
 Finished!
