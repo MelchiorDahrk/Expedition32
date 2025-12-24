@@ -1,11 +1,9 @@
 Merging plugins...
-Merging object to master: MISC x32_Misc_ArtPaintHollow
-Merging object to master: MISC x32_Misc_ArtPaintSpace
-Copying object to master: SCPT x32_MiscPainting_s
-Merging object to master: MISC x32_Misc_ArtPaintRooted
-Merging object to master: MISC x32_Misc_ArtPaintSwords
-Merging object to master: MISC x32_Misc_ArtPaintGreen
-Merging object to master: MISC x32_Misc_ArtPaintIsland
-Merging interior to master: The Greenhouse, Guest Quarters
+Merging object to master: WEAP x32_w_ShardDagger
+Copying object to master: SCPT x32_NefariousAtronachSummon_s
+Merging object to master: WEAP x32_w_ShardSpear
+Merging object to master: WEAP x32_w_ShardSword
+Merging object to master: WEAP x32_w_ShardAxe
+Merging interior to master: The Garden, Corpse Fields
 Saving results...
 Finished!

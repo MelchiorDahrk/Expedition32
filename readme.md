@@ -133,6 +133,7 @@ Improved collision on some white cliffs
 Added NoLore to NPC on top of the tower
 Removed health regen from final boss
 Added script to misc paintings in the greenhouse to prompt before being stolen
+Cursed the voidriven weapons
 
 1.3.2
 Fixed fall script in The Garden
