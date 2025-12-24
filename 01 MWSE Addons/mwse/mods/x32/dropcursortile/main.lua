@@ -3,7 +3,6 @@ event.register("startGlobalScript", function(e)
         local tile = tes3ui.getCursorTile()
         if tile then
             tile.element:triggerEvent("mouseClick")
-            tes3ui.leaveMenuMode()
         end
         return false
     end
