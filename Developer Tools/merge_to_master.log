@@ -1,24 +1,7 @@
 Merging plugins...
-Copying object to master: CLOT x32_c_MelvinDisguise
-Copying object to master: CLOT x32_c_ButlersGloveLeft
-Copying object to master: GLOB x32_MelvinDisguiseRevealed
-Copying object to master: CLOT x32_c_ButlersGloveRightDisg
-Merging object to master: BODY x32_a_Melvin_hd
-Merging object to master: SCPT x32_Melvin_s
-Copying object to master: BODY x32_c_Melvin_hd
-Copying object to master: BODY x32_c_ButlersGloves
-Copying object to master: CLOT x32_c_ButlersGloveRight
-Copying object to master: BOOK x32_note_MelvinDisguise
-Copying object to master: SCPT x32_MelvinDisguise_s
-Copying object to master: CLOT x32_c_ButlersGloveLeftDisg
-Copying object to master: SCPT x32_MelvinDisguiseGloveLeft_s
-Copying object to master: GLOB x32_MelvinDisguise
-Copying object to master: SCPT x32_MelvinDisguiseGloveRight_s
-Copying object to master: SCPT x32_DropCursorTile_s
-Merging object to master: NPC_ x32_Melvin
-Copying object to master: BODY x32_c_ButlersGloves.1st
-Merging interior to master: The Greenhouse, Palmarium
-Merging interior to master: The Greenhouse, East Wing
-Merging object to master: greeting 1
+Merging object to master: CREA x32_Cre_Beast3
+Merging object to master: CREA x32_Cre_Beast2
+Merging object to master: CREA x32_Cre_Beast
+Copying object to master: SPEL x32_ab_Beast
 Saving results...
 Finished!
