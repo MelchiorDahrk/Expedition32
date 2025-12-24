@@ -1,31 +1,24 @@
 Merging plugins...
-Merging object to master: BOOK X32_WritLedgerDoubt
-Merging object to master: SOUN x32_WhiteRuinShrineSound
+Copying object to master: CLOT x32_c_MelvinDisguise
+Copying object to master: CLOT x32_c_ButlersGloveLeft
+Copying object to master: GLOB x32_MelvinDisguiseRevealed
+Copying object to master: CLOT x32_c_ButlersGloveRightDisg
+Merging object to master: BODY x32_a_Melvin_hd
+Merging object to master: SCPT x32_Melvin_s
+Copying object to master: BODY x32_c_Melvin_hd
+Copying object to master: BODY x32_c_ButlersGloves
+Copying object to master: CLOT x32_c_ButlersGloveRight
+Copying object to master: BOOK x32_note_MelvinDisguise
+Copying object to master: SCPT x32_MelvinDisguise_s
+Copying object to master: CLOT x32_c_ButlersGloveLeftDisg
+Copying object to master: SCPT x32_MelvinDisguiseGloveLeft_s
+Copying object to master: GLOB x32_MelvinDisguise
+Copying object to master: SCPT x32_MelvinDisguiseGloveRight_s
+Copying object to master: SCPT x32_DropCursorTile_s
 Merging object to master: NPC_ x32_Melvin
-Merging object to master: NPC_ X32_SparStudent1
-Merging object to master: NPC_ X32_SubtleMaster
-Merging object to master: NPC_ X32_ViolentMaster
-Merging object to master: NPC_ X32_DoubtMaster
-Merging object to master: SPEL x32_sp_Melvin
-Merging object to master: NPC_ X32_SparStudent2
-Copying object to master: DOOR x32_Door_PaintingShards
-Merging interior to master: The Garden, Shards of Time
-Merging interior to master: The Garden, Haunted Void
-Merging interior to master: The Garden, White Cliffs
-Merging interior to master: The Garden, Rooted Memory
-Merging interior to master: The Greenhouse, Atrium
-Merging interior to master: The Garden, Tower
-Merging interior to master: The Garden, Shifting Hollow
-Merging interior to master: The Garden, Faded Pavilion
-Merging interior to master: Monastery of Mephala, Quarters
-Merging object to master: attack
+Copying object to master: BODY x32_c_ButlersGloves.1st
+Merging interior to master: The Greenhouse, Palmarium
+Merging interior to master: The Greenhouse, East Wing
 Merging object to master: greeting 1
-Merging object to master: savyn sedrin
-Merging object to master: greeting 0
-Merging object to master: writ
-Merging object to master: favil ondor
-Merging object to master: llersa drilith
-Merging object to master: latest rumors
-Merging object to master: varyn sedrin
 Saving results...
 Finished!
