@@ -135,6 +135,7 @@ Removed health regen from final boss
 Added script to misc paintings in the greenhouse to prompt before being stolen
 Cursed the voidriven weapons
 Fixed fade out on monarch breath sounds
+Optimized braziers in Tower cell
 
 1.3.2
 Fixed fall script in The Garden
