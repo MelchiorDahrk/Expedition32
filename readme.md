@@ -128,6 +128,7 @@ Raised lock value on a door in the Monastery
 Fixed hole in the wall of Shards of Time
 Added painting to get back to the Shards of Time cell
 Added a new item to the Palmarium
+Fixed some issues on white ruins meshes
 
 1.3.2
 Fixed fall script in The Garden
