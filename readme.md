@@ -42,6 +42,7 @@ This mod adds a Velothi tower entrance to 17,-3 and 17,-4. This might conflict w
 ## Credits
 
 Amal Kumar - Rocky trail texture
+arturendress - Garden golem body
 BaptisteBerard - autumn bush 00
 ChooChinTian - garden chest
 css0101 - Ancient Elven Furniture
