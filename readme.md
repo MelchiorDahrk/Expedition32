@@ -41,6 +41,14 @@ This mod adds a Velothi tower entrance to 17,-3 and 17,-4. This might conflict w
 
 ## Credits
 
+Special thanks to:
+Lucevar - Special thanks for consulting! Honorary team member
+Scipio - Music for the Corpse Fields
+Ruffin Vangarr - A dark elf head and hair
+S3ctor - Help with the s3maphore integration
+Greatness7 - Asset troubleshooting help and creating the "dropcursortile" lua code
+
+Resources used from:
 Amal Kumar - Rocky trail texture
 arturendress - Garden golem body
 BaptisteBerard - autumn bush 00
@@ -51,11 +59,9 @@ Dario Barresi - Rock face texture
 DJMaesen - Red-leaved tree model
 freesound\_community - Shrine Sound Effect
 General of Thailand - "3D Character: Creepy Statue" (https://skfb.ly/pB8NW) and "3D Asset: Creepy Statue" (https://skfb.ly/pBusE)
-Greatness7 - Asset troubleshooting help and creating the "dropcursortile" lua code
 Jefferson Frenay - modular rocks
 Jordan F - Trinket box
 Katherina - Watering can
-Lucevar - Special thanks for consulting! Honorary team member
 Mandrake - Golden pitcher
 mateochoque - garden set divider
 Nillusion, Kullamannen, Ole Gunnar Isager, sleepyUnicorn, and Rohit3DAsset - golden swords
@@ -63,10 +69,7 @@ Ogrebane - Kagioun sound effects
 Peter Nox - Kagioun and ancient vases
 Polyhaven - Textures
 Rotat - Creature VFX Restoration
-Ruffin Vangarr - A dark elf guy head and hair
 Runspect - Classic Statue
-S3ctor - Help with the s3maphore integration
-Scipio - Music for the Corpse Fields
 shahan - Nebulous atronach model
 Shriker1 - Morag Tong dagger
 spicybamer - Ivy texture
@@ -141,6 +144,7 @@ Optimized braziers in Tower cell
 Added a garden golem companion after unlocking the Nursery in The Greenhouse
 Added ancient idol item to corpse field
 Made it harder to miss the fire scroll
+Removed lights from atronachs upon death
 
 
 1.3.2
