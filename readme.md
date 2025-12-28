@@ -140,6 +140,7 @@ Fixed fade out on monarch breath sounds
 Optimized braziers in Tower cell
 Added a garden golem companion after unlocking the Nursery in The Greenhouse
 Added ancient idol item to corpse field
+Made it harder to miss the fire scroll
 
 
 1.3.2
