@@ -132,12 +132,15 @@ Added Melvin disguise
 Fixed some issues on white ruins meshes
 Improved collision on some white cliffs
 Added NoLore to NPC on top of the tower
-Removed health regen from final boss
+Removed health regen from final boss and reduced health
+Added safeguards for the boss falling off the edge
 Added script to misc paintings in the greenhouse to prompt before being stolen
 Cursed the voidriven weapons
 Fixed fade out on monarch breath sounds
 Optimized braziers in Tower cell
 Added a garden golem companion after unlocking the Nursery in The Greenhouse
+Added ancient idol item to corpse field
+
 
 1.3.2
 Fixed fall script in The Garden
