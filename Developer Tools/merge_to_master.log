@@ -1,9 +1,51 @@
 Merging plugins...
-Merging object to master: WEAP x32_w_ShardDagger
-Copying object to master: SCPT x32_NefariousAtronachSummon_s
-Merging object to master: WEAP x32_w_ShardSpear
-Merging object to master: WEAP x32_w_ShardSword
-Merging object to master: WEAP x32_w_ShardAxe
-Merging interior to master: The Garden, Corpse Fields
+Copying object to master: LEVC x32_lvl_GolemGarden
+Copying object to master: SPEL x32_sprout_invincibility
+Copying object to master: MISC x32_Misc_SproutHead
+Copying object to master: SCPT x32_GoldenPitcher_s
+Copying object to master: SOUN x32_GolemGardenVocal10
+Copying object to master: SCPT x32_SproutHead_s
+Copying object to master: SCPT x32_SproutRegrow_s
+Merging object to master: MISC x32_Misc_GoldenPitcherFull
+Copying object to master: SPEL md_corgi_wb
+Copying object to master: SOUN x32_GolemGardenVocal04
+Copying object to master: ACTI x32_Furn_SproutTable
+Copying object to master: CREA x32_Cre_GolemGarden02
+Copying object to master: STAT x32_Furn_GardenPotHead03
+Copying object to master: CREA x32_Cre_GolemGarden01
+Copying object to master: SCPT x32_SproutHeadAct_s
+Copying object to master: SCPT x32_SproutTable_s
+Copying object to master: CREA x32_Sprout
+Copying object to master: SOUN x32_GolemGardenVocal05
+Copying object to master: GLOB x32_sprout_companion
+Copying object to master: SOUN x32_GolemGardenVocal03
+Copying object to master: STAT x32_Furn_GardenPotHead02
+Copying object to master: SOUN x32_GolemGardenVocal08
+Copying object to master: SCPT x32_Sprout_s
+Merging object to master: MISC x32_Misc_GoldenPitcher
+Copying object to master: ACTI x32_Furn_SproutHead
+Copying object to master: SOUN x32_GolemGardenVocal02
+Copying object to master: SCPT x32_GolemGarden_s
+Copying object to master: SOUN x32_GolemGardenVocal01
+Copying object to master: SOUN x32_GolemGardenVocal06
+Copying object to master: SOUN x32_GolemGardenVocal09
+Copying object to master: SOUN x32_GolemGardenVocal07
+Copying object to master: CREA x32_Cre_GolemGarden03
+Copying object to master: SCPT x32_SproutWarp_s
+Copying object to master: GLOB x32_sprout_follow
+Copying object to master: STAT x32_Furn_GardenPotHead01
+Copying object to master: LEVI x32_lvl_w_GolemGarden
+Copying object to master: GLOB x32_sprout_dead
+Merging interior to master: The Greenhouse, Atrium
+Merging interior to master: The Greenhouse, Guest Quarters
+Merging interior to master: The Greenhouse, Atelier
+Merging interior to master: The Greenhouse, Storage Cupboard
+Merging interior to master: The Greenhouse, Nursery
+Copying object to master: -bonemeal...
+Merging object to master: greeting 5
+Copying object to master: garden golems
+Copying object to master: -follow...
+Copying object to master: -stay outside...
+Copying object to master: -health...
 Saving results...
 Finished!

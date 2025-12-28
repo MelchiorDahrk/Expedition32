@@ -137,6 +137,7 @@ Added script to misc paintings in the greenhouse to prompt before being stolen
 Cursed the voidriven weapons
 Fixed fade out on monarch breath sounds
 Optimized braziers in Tower cell
+Added a garden golem companion after unlocking the Nursery in The Greenhouse
 
 1.3.2
 Fixed fall script in The Garden
