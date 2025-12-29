@@ -145,7 +145,8 @@ Added a garden golem companion after unlocking the Nursery in The Greenhouse
 Added ancient idol item to corpse field
 Made it harder to miss the fire scroll
 Removed lights from atronachs upon death
-
+Fixed issue where Duchess NPC in the outro cell didn't disable
+Lift will now only start after you have spoken to Misfortune
 
 1.3.2
 Fixed fall script in The Garden
