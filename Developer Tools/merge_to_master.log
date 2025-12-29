@@ -1,17 +1,4 @@
 Merging plugins...
-Copying object to master: SCPT x32_JW_SoTSoundScript
-Copying object to master: DOOR X32_Door_PaintingGhEthos
-Copying object to master: SCPT x32_PaintingEthosEnabler
-Copying object to master: DOOR X32_Door_PaintingCliffs_SoT
-Copying object to master: SCPT x32_PaintingSotEnabler
-Copying object to master: ACTI x32_JW_SoTSound
-Copying object to master: DOOR X32_Door_PaintingEthos
-Copying object to master: LIGH x32_light@_White256
-Merging interior to master: The Garden, White Cliffs
-Merging interior to master: The Greenhouse, Solarium
-Merging interior to master: The Greenhouse, Lab
-Merging interior to master: The Garden, Ethos Shrine
-Merging interior to master: The Garden, Shards of Time
-Merging object to master: x32_mq
+Merging object to master: hello
 Saving results...
 Finished!
