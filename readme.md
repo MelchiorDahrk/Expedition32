@@ -130,7 +130,8 @@ Dialogue tweaks to Morag Tong NPCs
 Better training options from the Morag Tong Masters in the Monastery
 Raised lock value on a door in the Monastery
 Fixed hole in the wall of Shards of Time
-Added painting to get back to the Shards of Time cell
+Added painting to get back to the Shards of Time
+Added painting to get back to the Ethos Shrine
 Added Melvin disguise
 Fixed some issues on white ruins meshes
 Improved collision on some white cliffs
@@ -149,6 +150,8 @@ Fixed issue where Duchess NPC in the outro cell didn't disable
 Lift will now only start after you have spoken to Misfortune
 Fixed flickering floor in Shifting Hollow
 Fixed kagioun soundgen
+Improved white cliffs path grids
+Changed sword placement in nebula cell to encourage looking up
 
 1.3.2
 Fixed fall script in The Garden
