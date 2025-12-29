@@ -148,6 +148,7 @@ Removed lights from atronachs upon death
 Fixed issue where Duchess NPC in the outro cell didn't disable
 Lift will now only start after you have spoken to Misfortune
 Fixed flickering floor in Shifting Hollow
+Fixed kagioun soundgen
 
 1.3.2
 Fixed fall script in The Garden
