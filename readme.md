@@ -153,6 +153,7 @@ Fixed kagioun soundgen
 Improved white cliffs path grids
 Changed sword placement in nebula cell to encourage looking up
 Added additional method for getting celestine if the puzzle is completed incorrectly in the tower
+Can now sleep in the bed even if the Duchess is dead
 
 1.3.2
 Fixed fall script in The Garden
