@@ -154,6 +154,7 @@ Improved white cliffs path grids
 Changed sword placement in nebula cell to encourage looking up
 Added additional method for getting celestine if the puzzle is completed incorrectly in the tower
 Can now sleep in the bed even if the Duchess is dead
+Changed where you wake up if you fall off the edge in the Corpse Fields
 
 1.3.2
 Fixed fall script in The Garden
