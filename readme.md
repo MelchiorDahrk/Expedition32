@@ -114,7 +114,7 @@ Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 
 ## Changelog
 
-1.3.3
+1.4.0
 Fixed a greeting for the Duel Side Quest to make it fire properly
 Silenced the Morag Tong fighters in the Monastery
 Improved placement of side quest doors in the white cliffs area
@@ -155,6 +155,7 @@ Changed sword placement in nebula cell to encourage looking up
 Added additional method for getting celestine if the puzzle is completed incorrectly in the tower
 Can now sleep in the bed even if the Duchess is dead
 Changed where you wake up if you fall off the edge in the Corpse Fields
+Removed some unused objects
 
 1.3.2
 Fixed fall script in The Garden
