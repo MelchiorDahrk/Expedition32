@@ -157,6 +157,7 @@ Can now sleep in the bed even if the Duchess is dead
 Changed where you wake up if you fall off the edge in the Corpse Fields
 Removed some unused objects
 Updated some creature types to be more accurate to their nature
+Added MWSE tooltips complete support
 
 1.3.2
 Fixed fall script in The Garden
