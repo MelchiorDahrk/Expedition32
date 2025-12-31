@@ -3,7 +3,7 @@ if ashfall then
 
     ashfall.registerActivators{
 		x32_Flora_TreeRed01 = "tree",
-		x32_Flora_TreeRed02 = "tree"
+		x32_Flora_TreeRed02 = "tree",
 		x32_Flora_TreeRed03 = "tree",
 		x32_Flora_TreeRed04 = "tree",
 		x32_Flora_TreeRed05 = "tree",
