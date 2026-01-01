@@ -9,6 +9,7 @@ then
 end
 
 event.register("initialized", function()
+    dofile("x32.achievements.interop")
     dofile("x32.ashfall.interop")
     dofile("x32.cso.interop")
     dofile("x32.dropcursortile")
