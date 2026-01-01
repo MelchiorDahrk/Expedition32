@@ -1,14 +1,4 @@
 Merging plugins...
-Copying object to master: SCPT x32_MagicSummonEffect_s
-Copying object to master: SPEL x32_sp_SummonNebulousAtronach
-Copying object to master: SOUN x32_MagicConjHit
-Copying object to master: BOOK x32_bk_SummonNebulousAtro
-Copying object to master: SCPT x32_scBk_SummonNebulousAtro_s
-Copying object to master: SCPT x32_SummonAI_s
-Copying object to master: ACTI x32_MagicSummonEffect
-Copying object to master: SCPT x32_SummonNebulousAtronach_s
-Copying object to master: CREA x32_Dae_AtronachNebulaS
-Merging interior to master: The Greenhouse, Lab
-Merging interior to master: The Greenhouse, North Wing
+Merging object to master: SCPT X32_Writ1TargetEnabler_s
 Saving results...
 Finished!
