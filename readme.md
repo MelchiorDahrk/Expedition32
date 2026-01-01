@@ -46,7 +46,7 @@ Lucevar - Special thanks for consulting! Honorary team member
 Scipio - Music for the Corpse Fields
 Ruffin Vangarr - A dark elf head and hair
 S3ctor - Help with the s3maphore integration
-Greatness7 - Asset troubleshooting help and creating the "dropcursortile" lua code
+Greatness7 - Asset troubleshooting and extensive help with lua coding
 
 Resources used from:
 Amal Kumar - Rocky trail texture
