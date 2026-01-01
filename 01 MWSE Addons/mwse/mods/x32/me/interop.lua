@@ -2,7 +2,7 @@ local framework = include("OperatorJack.MagickaExpanded")
 
 event.register("initialized", function()
     -- sets a global so that mwscript can detect if ME is active
-    tes3.setGlobal("x32_MagickaExpandedActive", framework ~= nil)
+    tes3.setGlobal("x32_MagickaExpandedActive", framework and 1 or 0)
 end)
 
 if framework == nil then return end
@@ -20,7 +20,7 @@ framework.effects.conjuration.createBasicSummoningEffect({
     ),
     baseCost = 18,
     creatureId = "x32_Dae_AtronachNebulaS",
-    icon = "x32\\e\\b_tx_s_smmn_nebatro.tga"
+    icon = "x32\\e\\tx_s_smmn_nebatro.tga"
 })
 
 
