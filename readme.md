@@ -159,6 +159,7 @@ Removed some unused objects
 Updated some creature types to be more accurate to their nature
 Added MWSE tooltips complete support
 Added spellbook to learn Summon Nebulous Atronachs spell to The Greenhouse Lab
+Added book about the Kagioun
 
 1.3.2
 Fixed fall script in The Garden
