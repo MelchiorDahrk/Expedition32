@@ -31,3 +31,15 @@ sb_achievements.registerAchievement {
     colour = sb_achievements.colours.yellow,
     title = "A Light in the Dark", desc = "Light the braziers in The Garden, Tower using a secret sequence."
 }
+
+sb_achievements.registerAchievement {
+    id = "x32_deg",
+    category = cats.garden,
+    condition = function()
+        return tes3.getGlobal("x32_TalkedToDEG ") == 1
+    end,
+    icon = iconPath .. "achievement_deg.tga",
+    colour = sb_achievements.colours.yellow,
+    title = "A Familiar Face", desc = "Talk to the NPC on top of the tower.",
+    configDesc = sb_achievements.configDesc.hideDesc
+}
