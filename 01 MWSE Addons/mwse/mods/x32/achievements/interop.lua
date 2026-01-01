@@ -36,7 +36,7 @@ sb_achievements.registerAchievement {
     id = "x32_deg",
     category = cats.garden,
     condition = function()
-        return tes3.getGlobal("x32_TalkedToDEG ") == 1
+        return tes3.getGlobal("x32_TalkedToDEG") == 1
     end,
     icon = iconPath .. "achievement_deg.tga",
     colour = sb_achievements.colours.yellow,
