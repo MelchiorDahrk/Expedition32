@@ -1,38 +1,21 @@
-local function onInitialized()
-    if not tes3.isModActive("TheGardenOfDreams.esp")
-        and not tes3.isModActive("TheGardenOfDreams.esm")
-    then
-        return
-    end
-    
+--[[
+    The Garden of Dreams
+--]]
+
+if not tes3.isModActive("TheGardenOfDreams.esp")
+    and not tes3.isModActive("TheGardenOfDreams.esm")
+then
+    return
+end
+
+event.register("initialized", function()
     dofile("x32.ashfall.interop")
     dofile("x32.cso.interop")
-    dofile("x32.ssqn.interop")
-    dofile("x32.me.interop")
-    dofile("x32.tooltipscomplete.interop")
     dofile("x32.dropcursortile")
-end
-event.register("initialized", onInitialized, { priority = 1000 })
+    dofile("x32.ssqn.interop")
+    dofile("x32.tooltipscomplete.interop")
+end)
 
-
-local function addSummoningEffects()
-    local framework = include("OperatorJack.MagickaExpanded")
-    if framework then
-        tes3.claimSpellEffectId("summonNebulousAtronach", 7900)
-
-        framework.effects.conjuration.createBasicSummoningEffect({
-            id = tes3.effect.summonNebulousAtronach,
-            name = "Summon Nebulous Atronach",
-            description = (
-                "This effect summons a x32_Dae_AtronachNebulaS from The Nebula Between Worlds."..
-                    " It appears six feet in front of the caster and attacks any entity that attacks the caster until"..
-                    " the effect ends or the summoning is killed. At death, or when the effect ends, the summoning"..
-                    " disappears, returning to Oblivion. If summoned in town, the guards will attack you and the summoning on sight."
-            ),
-            baseCost = 18,
-            creatureId = "x32_Dae_AtronachNebulaS",
-            icon = "x32\\e\\b_tx_s_smmn_nebatro.tga"
-        })
-    end
-end
-event.register("magicEffectsResolved", addSummoningEffects)
+event.register("magicEffectsResolved", function()
+    dofile("x32.me.interop")
+end)
