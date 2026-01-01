@@ -25,7 +25,7 @@ sb_achievements.registerAchievement {
     id = "x32_brazier",
     category = cats.garden,
     condition = function()
-        return tes3.getGlobal("x32_BrazierSecretComplete") = 1
+        return tes3.getGlobal("x32_BrazierSecretComplete") == 1
     end,
     icon = iconPath .. "achievement_brazier.tga",
     colour = sb_achievements.colours.yellow,
