@@ -158,6 +158,7 @@ Changed where you wake up if you fall off the edge in the Corpse Fields
 Removed some unused objects
 Updated some creature types to be more accurate to their nature
 Added MWSE tooltips complete support
+Added spellbook to learn Summon Nebulous Atronachs spell to The Greenhouse Lab
 
 1.3.2
 Fixed fall script in The Garden

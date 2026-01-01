@@ -1,11 +1,14 @@
 Merging plugins...
-Merging object to master: CREA x32_Cre_Beast
-Merging object to master: CREA x32_Und_AshenKagioun
-Merging object to master: CREA x32_Cre_BeastStandin
-Merging object to master: CREA x32_NebulousMonarchs
-Merging object to master: CREA x32_Cre_Beast2
-Merging object to master: CREA x32_Cre_Beast3
-Merging object to master: CREA x32_Cre_BeastNarration
-Merging object to master: CREA x32_Und_AshenKag_Boss
+Copying object to master: SCPT x32_MagicSummonEffect_s
+Copying object to master: SPEL x32_sp_SummonNebulousAtronach
+Copying object to master: SOUN x32_MagicConjHit
+Copying object to master: BOOK x32_bk_SummonNebulousAtro
+Copying object to master: SCPT x32_scBk_SummonNebulousAtro_s
+Copying object to master: SCPT x32_SummonAI_s
+Copying object to master: ACTI x32_MagicSummonEffect
+Copying object to master: SCPT x32_SummonNebulousAtronach_s
+Copying object to master: CREA x32_Dae_AtronachNebulaS
+Merging interior to master: The Greenhouse, Lab
+Merging interior to master: The Greenhouse, North Wing
 Saving results...
 Finished!
