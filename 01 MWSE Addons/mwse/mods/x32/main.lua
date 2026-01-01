@@ -17,5 +17,5 @@ event.register("initialized", function()
 end)
 
 event.register("magicEffectsResolved", function()
-    dofile("x32.me.interop")
+    dofile("x32.summons.interop")
 end)
