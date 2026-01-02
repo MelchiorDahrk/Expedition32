@@ -1,5 +1,7 @@
 Merging plugins...
-Copying object to master: GLOB x32_ScaredByStatue
-Merging object to master: SCPT X32_StatueScare_s
+Merging object to master: MISC x32_Key_FloralBlue
+Copying object to master: SCPT x32_FloralKeyCheck
+Copying object to master: GLOB x32_FloralKeyTracker
+Merging interior to master: x32_mdTestCell_in
 Saving results...
 Finished!
