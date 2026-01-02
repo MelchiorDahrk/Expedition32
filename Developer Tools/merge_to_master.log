@@ -1,13 +1,10 @@
 Merging plugins...
-Merging object to master: CREA x32_Cre_Kagioun
-Merging object to master: CREA x32_Cre_GolemGarden03
-Merging object to master: CREA x32_Cre_KagiounAlpha_Q2
-Merging object to master: CREA x32_Sprout
-Merging object to master: CREA x32_Und_AshenKagioun
-Merging object to master: CREA x32_Cre_Kagioun_Duel
-Merging object to master: CREA x32_Cre_GolemGarden02
-Merging object to master: CREA x32_Cre_GoblinSpace
-Merging object to master: CREA x32_Cre_GolemGarden01
-Merging object to master: CREA x32_Und_AshenKag_Boss
+Merging object to master: MISC x32_Key_FloralBlue
+Merging object to master: SCPT x32_FloralKeyCheck
+Copying object to master: ACTI x32_FloralKeyMarker
+Merging interior to master: The Garden, Haunted Void
+Merging interior to master: The Garden, Faded Pavilion
+Merging interior to master: The Garden, Shifting Hollow
+Merging interior to master: The Greenhouse, Nursery
 Saving results...
 Finished!
