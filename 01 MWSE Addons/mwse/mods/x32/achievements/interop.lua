@@ -26,6 +26,21 @@ sb_achievements.registerAchievement {
 }
 
 sb_achievements.registerAchievement {
+    id = "x32_kagioun",
+    category = cats.garden,
+    conditionType = sb_achievements.conditionType.progressAmount,
+    progress = function()
+        return tes3.getGlobal("x32_KagiounKillCounter")
+    end,
+    progressMax = function()
+        return 20
+    end,
+    icon = iconPath .. "achievement_kagioun.tga",
+    colour = sb_achievements.colours.yellow,
+    title = "Population Control", desc = "Slay 20 kagioun."
+}
+
+sb_achievements.registerAchievement {
     id = "x32_brazier",
     category = cats.garden,
     sb_achievements.conditionType.instant,
