@@ -53,6 +53,18 @@ sb_achievements.registerAchievement {
 }
 
 sb_achievements.registerAchievement {
+    id = "x32_keys",
+    category = cats.garden,
+    sb_achievements.conditionType.instant,
+    condition = function()
+        return tes3.getGlobal("x32_FloralKeyTracker") == 1
+    end,
+    icon = iconPath .. "achievement_keys.tga",
+    colour = sb_achievements.colours.yellow,
+    title = "Certified Greenhouse Intruder", desc = "Collect all 4 keys to The Greenhouse."
+}
+
+sb_achievements.registerAchievement {
     id = "x32_deg",
     category = cats.garden,
     sb_achievements.conditionType.instant,
