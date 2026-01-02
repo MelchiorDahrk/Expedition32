@@ -26,6 +26,21 @@ sb_achievements.registerAchievement {
 }
 
 sb_achievements.registerAchievement {
+    id = "x32_paintings",
+    category = cats.garden,
+    conditionType = sb_achievements.conditionType.progressAmount,
+    progress = function()
+        return tes3.getGlobal("x32_PaintingTracker")
+    end,
+    progressMax = function()
+        return 15
+    end,
+    icon = iconPath .. "achievement_paintings.tga",
+    colour = sb_achievements.colours.yellow,
+    title = "The Art Critic", desc = "Travel through all 15 paintings across The Greenhouse and The Garden."
+}
+
+sb_achievements.registerAchievement {
     id = "x32_kagioun",
     category = cats.garden,
     conditionType = sb_achievements.conditionType.progressAmount,
