@@ -13,8 +13,12 @@ local cats = {
 sb_achievements.registerAchievement {
     id = "x32_shrines",
     category = cats.garden,
-    condition = function()
-        return tes3.getGlobal("x32_WhiteRuinShrineCounter") >= 9
+    conditionType = sb_achievements.conditionType.progressAmount,
+    progress = function()
+        return tes3.getGlobal("x32_WhiteRuinShrineCounter")
+    end,
+    progressMax = function()
+        return 9
     end,
     icon = iconPath .. "achievement_shrine.tga",
     colour = sb_achievements.colours.yellow,
@@ -24,6 +28,7 @@ sb_achievements.registerAchievement {
 sb_achievements.registerAchievement {
     id = "x32_brazier",
     category = cats.garden,
+    sb_achievements.conditionType.instant,
     condition = function()
         return tes3.getGlobal("x32_BrazierSecretComplete") == 1
     end,
@@ -35,11 +40,13 @@ sb_achievements.registerAchievement {
 sb_achievements.registerAchievement {
     id = "x32_deg",
     category = cats.garden,
+    sb_achievements.conditionType.instant,
     condition = function()
         return tes3.getGlobal("x32_TalkedToDEG") == 1
     end,
     icon = iconPath .. "achievement_deg.tga",
     colour = sb_achievements.colours.yellow,
-    title = "A Familiar Face", desc = "Talk to the NPC on top of the tower.",
-    configDesc = sb_achievements.configDesc.hideDesc
+    title = "A Familiar Face", desc = "Talk to the man at the top of the tower in The Garden, White Cliffs.",
+    configDesc = sb_achievements.configDesc.hideDesc,
+    lockedDesc = sb_achievements.lockedMessage.psHidden
 }
