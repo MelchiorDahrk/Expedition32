@@ -1,9 +1,8 @@
 Merging plugins...
-Merging object to master: CREA x32_Cre_KagiounAlpha_Q2
-Copying object to master: GLOB x32_KagiounKilledTracker
-Merging object to master: CREA x32_Cre_Kagioun_Duel
-Copying object to master: SCPT x32_KagiounKillCounter
-Merging object to master: CREA x32_Cre_Kagioun
-Merging object to master: SCPT x32_KagiounScript
+Copying object to master: SCPT x32_SaffronHarvestScript
+Merging object to master: CONT x32_f_Crocus01
+Copying object to master: GLOB x32_SaffronHarvestTracker
+Merging object to master: CONT x32_f_Crocus02
+Merging interior to master: x32_mdTestCell_ex
 Saving results...
 Finished!
