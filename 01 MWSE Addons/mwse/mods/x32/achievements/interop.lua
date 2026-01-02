@@ -26,6 +26,21 @@ sb_achievements.registerAchievement {
 }
 
 sb_achievements.registerAchievement {
+    id = "x32_paintings",
+    category = cats.garden,
+    conditionType = sb_achievements.conditionType.progressAmount,
+    progress = function()
+        return tes3.getGlobal("x32_PaintingTracker")
+    end,
+    progressMax = function()
+        return 15
+    end,
+    icon = iconPath .. "achievement_paintings.tga",
+    colour = sb_achievements.colours.yellow,
+    title = "The Art Critic", desc = "Travel through all 15 paintings across The Greenhouse and The Garden."
+}
+
+sb_achievements.registerAchievement {
     id = "x32_kagioun",
     category = cats.garden,
     conditionType = sb_achievements.conditionType.progressAmount,
@@ -50,6 +65,18 @@ sb_achievements.registerAchievement {
     icon = iconPath .. "achievement_brazier.tga",
     colour = sb_achievements.colours.yellow,
     title = "A Light in the Dark", desc = "Light the braziers in The Garden, Tower using a secret sequence."
+}
+
+sb_achievements.registerAchievement {
+    id = "x32_keys",
+    category = cats.garden,
+    sb_achievements.conditionType.instant,
+    condition = function()
+        return tes3.getGlobal("x32_FloralKeyTracker") == 1
+    end,
+    icon = iconPath .. "achievement_keys.tga",
+    colour = sb_achievements.colours.yellow,
+    title = "Certified Greenhouse Intruder", desc = "Collect all 4 keys to The Greenhouse."
 }
 
 sb_achievements.registerAchievement {
