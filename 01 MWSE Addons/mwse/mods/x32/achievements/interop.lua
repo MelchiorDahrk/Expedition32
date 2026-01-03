@@ -45,7 +45,7 @@ sb_achievements.registerAchievement {
     category = cats.garden,
     conditionType = sb_achievements.conditionType.progressAmount,
     progress = function()
-        return tes3.getGlobal("x32_KagiounKillCounter")
+        return tes3.getGlobal("x32_KagiounKilledTracker")
     end,
     progressMax = function()
         return 20
@@ -58,19 +58,19 @@ sb_achievements.registerAchievement {
 sb_achievements.registerAchievement {
     id = "x32_brazier",
     category = cats.garden,
-    sb_achievements.conditionType.instant,
+    conditionType = sb_achievements.conditionType.instant,
     condition = function()
         return tes3.getGlobal("x32_BrazierSecretComplete") == 1
     end,
     icon = iconPath .. "achievement_brazier.tga",
     colour = sb_achievements.colours.yellow,
-    title = "A Light in the Dark", desc = "Light the braziers in The Garden, Tower using a secret sequence."
+    title = "A Light in the Dark", desc = "Light the braziers in The Garden, Tower using a secret pattern."
 }
 
 sb_achievements.registerAchievement {
     id = "x32_keys",
     category = cats.garden,
-    sb_achievements.conditionType.instant,
+    conditionType = sb_achievements.conditionType.instant,
     condition = function()
         return tes3.getGlobal("x32_FloralKeyTracker") == 1
     end,
@@ -82,13 +82,13 @@ sb_achievements.registerAchievement {
 sb_achievements.registerAchievement {
     id = "x32_deg",
     category = cats.garden,
-    sb_achievements.conditionType.instant,
+    conditionType = sb_achievements.conditionType.instant,
     condition = function()
         return tes3.getGlobal("x32_TalkedToDEG") == 1
     end,
     icon = iconPath .. "achievement_deg.tga",
     colour = sb_achievements.colours.yellow,
-    title = "A Familiar Face", desc = "Talk to the man at the top of the tower in The Garden, White Cliffs.",
+    title = "A Familiar Face", desc = "Talk to the elf at the top of the tower in The Garden, White Cliffs.",
     configDesc = sb_achievements.configDesc.hideDesc,
     lockedDesc = sb_achievements.lockedMessage.psHidden
 }

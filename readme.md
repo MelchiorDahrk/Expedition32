@@ -42,11 +42,12 @@ This mod adds a Velothi tower entrance to 17,-3 and 17,-4. This might conflict w
 ## Credits
 
 Special thanks to:
+Greatness7 - Asset troubleshooting and extensive help with lua coding
 Lucevar - Special thanks for consulting! Honorary team member
-Scipio - Music for the Corpse Fields
 Ruffin Vangarr - A dark elf head and hair
 S3ctor - Help with the s3maphore integration
-Greatness7 - Asset troubleshooting and extensive help with lua coding
+Safebox - Extensive help troubleshooting the achievement support
+Scipio - Music for the Corpse Fields
 
 Resources used from:
 Amal Kumar - Rocky trail texture
