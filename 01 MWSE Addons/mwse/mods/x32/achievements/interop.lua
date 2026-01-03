@@ -22,7 +22,7 @@ sb_achievements.registerAchievement {
     end,
     icon = iconPath .. "achievement_shrine.tga",
     colour = sb_achievements.colours.yellow,
-    title = "Prayer of the White Tower", desc = "Discover all 9 shrines in The Garden, White Cliffs."
+    title = "Prayer Of The White Tower", desc = "Discover all 9 shrines in The Garden, White Cliffs."
 }
 
 sb_achievements.registerAchievement {
@@ -94,7 +94,7 @@ sb_achievements.registerAchievement {
     end,
     icon = iconPath .. "achievement_brazier.tga",
     colour = sb_achievements.colours.yellow,
-    title = "A Light in the Dark", desc = "Light the braziers in The Garden, Tower using a secret pattern."
+    title = "A Light In The Dark", desc = "Light the braziers in The Garden, Tower using a secret pattern."
 }
 
 sb_achievements.registerAchievement {
@@ -107,6 +107,20 @@ sb_achievements.registerAchievement {
     icon = iconPath .. "achievement_deg.tga",
     colour = sb_achievements.colours.yellow,
     title = "A Familiar Face", desc = "Talk to the elf at the top of the tower in The Garden, White Cliffs.",
+    configDesc = sb_achievements.configDesc.hideDesc,
+    lockedDesc = sb_achievements.lockedMessage.psHidden
+}
+
+sb_achievements.registerAchievement {
+    id = "x32_sword",
+    category = cats.garden,
+    conditionType = sb_achievements.conditionType.instant,
+    condition = function()
+        return tes3.getGlobal("x32_UsedGoldenSword") == 1
+    end,
+    icon = iconPath .. "achievement_sword.tga",
+    colour = sb_achievements.colours.yellow,
+    title = "Right Tool For The Job", desc = "Kill Misfortune with The Golden Sword.",
     configDesc = sb_achievements.configDesc.hideDesc,
     lockedDesc = sb_achievements.lockedMessage.psHidden
 }
