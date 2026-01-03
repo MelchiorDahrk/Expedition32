@@ -82,7 +82,7 @@ sb_achievements.registerAchievement {
     end,
     icon = iconPath .. "achievement_kagioun.tga",
     colour = sb_achievements.colours.yellow,
-    title = "Population Control", desc = "Slay 20 kagioun."
+    title = "Population Control", desc = "Slay 20 Kagioun."
 }
 
 sb_achievements.registerAchievement {

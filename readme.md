@@ -17,6 +17,16 @@ Seelof
 * Unravel the mythical nature of how death and fate are intertwined in The Elder Scrolls universe.
 * Over 500 custom models to bring brand new locales to life.
 
+Integration with other mods:
+* MUSE (MWSE) - Custom music by Scipio for the final area
+* S3maphore (OpenMW) - Custom music by Scipio for the final area
+* The Achievements Framework (MWSE) - 9 custom achievements
+* Ashfall (MWSE) - full integration including Saffron Tea
+* CSO (MWSE)
+* Graphic Herbalism (MWSE & OpenMW)
+* SSQN (MWSE & OpenMW)
+* Tooltips Complete (MWSE)
+
 ## Getting Started
 
 Talk to a member of the Morag Tong or Temple about Latest Rumors.
