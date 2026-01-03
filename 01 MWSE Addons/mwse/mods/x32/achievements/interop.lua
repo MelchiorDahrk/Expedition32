@@ -138,3 +138,17 @@ sb_achievements.registerAchievement {
     configDesc = sb_achievements.configDesc.hideDesc,
     lockedDesc = sb_achievements.lockedMessage.psHidden
 }
+
+sb_achievements.registerAchievement {
+    id = "x32_statue",
+    category = cats.garden,
+    conditionType = sb_achievements.conditionType.instant,
+    condition = function()
+        return tes3.getGlobal("x32_ScaredByStatue") == 1
+    end,
+    icon = iconPath .. "achievement_statue.tga",
+    colour = sb_achievements.colours.yellow,
+    title = "Watch Your Back", desc = "Find the creepy statue in The Greenhouse, Storage Cupboard.",
+    configDesc = sb_achievements.configDesc.hideDesc,
+    lockedDesc = sb_achievements.lockedMessage.psHidden
+}
