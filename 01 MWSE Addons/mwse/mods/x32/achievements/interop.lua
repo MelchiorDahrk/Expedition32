@@ -110,3 +110,17 @@ sb_achievements.registerAchievement {
     configDesc = sb_achievements.configDesc.hideDesc,
     lockedDesc = sb_achievements.lockedMessage.psHidden
 }
+
+sb_achievements.registerAchievement {
+    id = "x32_melvin",
+    category = cats.garden,
+    conditionType = sb_achievements.conditionType.instant,
+    condition = function()
+        return tes3.getGlobal("x32_MelvinDisguiseTalkTracker") == 1
+    end,
+    icon = iconPath .. "achievement_melvin.tga",
+    colour = sb_achievements.colours.yellow,
+    title = "The Imposter", desc = "Talk to Melvin as Melvin.",
+    configDesc = sb_achievements.configDesc.hideDesc,
+    lockedDesc = sb_achievements.lockedMessage.psHidden
+}
