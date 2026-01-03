@@ -20,7 +20,7 @@ Seelof
 Integration with other mods:
 * MUSE (MWSE) - Custom music by Scipio for the final area
 * S3maphore (OpenMW) - Custom music by Scipio for the final area
-* The Achievements Framework (MWSE) - 9 custom achievements
+* The Achievements Framework (MWSE) - 10 custom achievements
 * Ashfall (MWSE) - full integration including Saffron Tea
 * CSO (MWSE)
 * Graphic Herbalism (MWSE & OpenMW)
