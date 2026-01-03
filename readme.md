@@ -22,7 +22,7 @@ Integration with other mods:
 * S3maphore (OpenMW) - Custom music by Scipio for the final area
 * The Achievements Framework (MWSE) - 10 custom achievements
 * Ashfall (MWSE) - Full integration including Saffron Tea
-* DRIP (MWSE) - The new, Fractured Weapons will be DRIPified
+* DRIP (MWSE) - The new Fractured Weapons have a chance to be enchanted
 * CSO (MWSE)
 * Graphic Herbalism (MWSE & OpenMW)
 * SSQN (MWSE & OpenMW)
@@ -174,6 +174,7 @@ Added spellbook to learn Summon Nebulous Atronachs spell to The Greenhouse Lab
 Added book about the Kagioun
 Removed respawn flag from some creatures
 Improved loot chances in the Tower and Corpse Fields containers
+Added DRIP (MWSE) interop
 Added MWSE achievement support
 
 1.3.2
