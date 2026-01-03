@@ -1,10 +1,26 @@
 Merging plugins...
-Merging object to master: MISC x32_Key_FloralBlue
-Merging object to master: SCPT x32_FloralKeyCheck
-Copying object to master: ACTI x32_FloralKeyMarker
-Merging interior to master: The Garden, Haunted Void
-Merging interior to master: The Garden, Faded Pavilion
-Merging interior to master: The Garden, Shifting Hollow
-Merging interior to master: The Greenhouse, Nursery
+Merging object to master: DOOR X32_Door_PaintingCliffs
+Copying object to master: SCPT x32_PaintingTrackerScript
+Copying object to master: SCPT x32_PaintingTrackerScript_F
+Merging object to master: DOOR X32_Door_PaintingRooted
+Copying object to master: GLOB x32_VisitLastHarbor
+Copying object to master: DOOR x32_Door_PaintingIsland
+Merging object to master: SCPT x32_PaintingSotEnabler
+Merging object to master: SCPT x32_PaintingEthosEnabler
+Merging object to master: DOOR x32_Door_PaintingIsland_F
+Copying object to master: SCPT x32_PaintingLhEnabler
+Merging object to master: DOOR x32_Door_PaintingSpace
+Copying object to master: SCPT x32_VisitLastHarborScr
+Merging object to master: DOOR X32_Door_PaintingCliffs_F
+Copying object to master: ACTI x32_Act_VisitLastHarbor
+Merging object to master: DOOR x32_Door_PaintingShards
+Merging object to master: DOOR X32_Door_PaintingGhVestibule_F
+Merging object to master: DOOR x32_Door_PaintingHollow
+Copying object to master: GLOB x32_PaintingTracker
+Merging object to master: SCPT x32_JW_Finaldoor
+Merging interior to master: The Greenhouse, North Wing
+Merging interior to master: The Greenhouse, Vestibule
+Merging interior to master: The Garden, Last Harbor
+Merging interior to master: The Garden, Ethos Shrine
 Saving results...
 Finished!
