@@ -1,19 +1,9 @@
 Merging plugins...
-Merging object to master: CREA x32_Und_Spirit_JW2
-Merging object to master: CREA x32_Und_Spirit_JW3
-Merging object to master: CREA x32_Und_Spirit_JW1
-Merging object to master: CREA x32_Und_Spirit_Space
-Merging object to master: CREA x32_Und_Spirit_Q2
-Merging object to master: CREA x32_Und_Spirit_Doors
-Merging object to master: CREA x32_Und_Spirit
-Merging object to master: CREA x32_Und_Spirit_Q3
-Merging object to master: CREA x32_Und_Spirit_JW4
-Merging object to master: CREA x32_Und_Spirit_JW5
-Merging object to master: CREA x32_Und_Spirit_JW6
-Copying object to master: SPEL x32_ab_SpiritInvincibility
-Merging object to master: CREA x32_Und_Spirit_Duel
-Merging object to master: CREA x32_Und_Spirit_Q1
-Merging object to master: CREA x32_Und_Spirit_JW7
-Merging object to master: CREA x32_Und_Spirit_Q4
+Merging object to master: CONT x32_f_Crocus02
+Merging object to master: SCPT x32_SaffronHarvestScript
+Merging object to master: GLOB x32_SaffronHarvestTracker
+Merging object to master: CONT x32_f_Crocus01
+Removed deleted GLOB object: x32_SaffronHarvestTracker
+Removed deleted SCPT object: x32_SaffronHarvestScript
 Saving results...
 Finished!
