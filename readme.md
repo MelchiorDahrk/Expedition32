@@ -176,7 +176,8 @@ Removed respawn flag from some creatures
 Improved loot chances in the Tower and Corpse Fields containers
 Added DRIP (MWSE) interop
 Improved skinning on Kagioun
-Added MWSE achievement support
+Added 10 custom achievements (requires MWSE & The Achievement Framework
+Added Smith - The Weapon Crafting Framework (MWSE) interop
 
 1.3.2
 Fixed fall script in The Garden

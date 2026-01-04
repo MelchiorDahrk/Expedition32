@@ -17,6 +17,7 @@ event.register("initialized", function()
     dofile("x32.dropcursortile")
     dofile("x32.ssqn.interop")
     dofile("x32.tooltipscomplete.interop")
+    dofile("x32.smith.interop")
 end)
 
 event.register("magicEffectsResolved", function()
