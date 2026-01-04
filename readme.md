@@ -175,6 +175,7 @@ Added book about the Kagioun
 Removed respawn flag from some creatures
 Improved loot chances in the Tower and Corpse Fields containers
 Added DRIP (MWSE) interop
+Improved skinning on Kagioun
 Added MWSE achievement support
 
 1.3.2
