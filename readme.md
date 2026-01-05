@@ -22,7 +22,7 @@ Integration with other mods:
 * S3maphore (OpenMW) - Custom music by Scipio for the final area
 * The Achievements Framework (MWSE) - 10 custom achievements
 * Ashfall (MWSE) - Full integration including Saffron Tea
-* DRIP (MWSE) - The new Fractured Weapons have a chance to be enchanted
+* DRIP (MWSE) / Fresh Loot (OpenMW) - The new Fractured Weapons have a chance to be enchanted
 * CSO (MWSE)
 * Graphic Herbalism (MWSE & OpenMW)
 * SSQN (MWSE & OpenMW)
@@ -129,6 +129,7 @@ Added DRIP (MWSE) interop
 Added Smith - The Weapon Crafting Framework (MWSE) interop
 Added 10 custom achievements (requires MWSE & The Achievement Framework)
 Added optional loading screens
+Added Fresh Loot (OpenMW) interop
 Improved placement of side quest doors in the White Cliffs area
 Improved object placement in The Greenhouse Atrium
 Improved collision to floating tiles in the Tower and Corpse Fields
