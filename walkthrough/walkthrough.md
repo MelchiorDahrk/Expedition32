@@ -157,3 +157,70 @@ The quest and writ are tied together.
 	- Master gives an enchanted ring.
 
 - If you opened the missive then the Sedrin Siblings will ambush you in your sleep at a random time later, but only once you complete or permanently fail the monastery quests
+
+## Achievements
+
+### Prayer Of The White Tower
+
+- Discover all 9 shrines in The Garden, White Cliffs.
+	- Refer to `shrine_locations.png`
+
+### The Art Critic
+
+- Travel through all 15 paintings across The Greenhouse and The Garden.
+	- The Greenhouse, Atelier
+	- The Greenhouse, Atrium
+	- The Greenhouse, Lab
+	- The Greenhouse, Nursery
+	- The Greenhouse, Palmarium
+	- The Greenhouse, Solarium
+	- The Greenhouse, Vestibule
+	- The Garden, Corpse Fields
+	- The Garden, Ethos Shrine
+	- The Garden, Last Harbor x2
+	- The Garden, Rooted Ecstasy
+	- The Garden, Shards of Time
+	- The Garden, White Cliffs x2
+
+### Duchess, Is That You?
+
+- Talk to all the Duchess' forms.
+	- First 6 can be completed after talking to The Duchess in the Atrium.
+	- Final form is unlocked after completing the main quest.
+
+### Certified Greenhouse Intruder
+
+- Collect all 4 keys to The Greenhouse.
+	- Blue key is in a chest in The Garden, Faded Pavilion
+	- Green key is in a chest in The Garden, Shifting Hollow
+	- Purple key is on a table in The Greenhouse, Nursery
+	- Red key is given to the player by Baknamy after completing The Mind Races quest (or he can be killed for it)
+
+### Population Control
+
+- Slay 20 Kagioun.
+	- Kagioun can also interrupt sleep in The Garden, White Cliffs
+	
+### A Light In The Dark
+
+- Light the braziers in The Garden, Tower using a secret pattern.
+	- Find the Paintress' Journal in The Greenhouse Atelier for the pattern.
+
+### A Familiar Face
+
+- Talk to the elf at the top of the tower in The Garden, White Cliffs.
+
+### Right Tool For The Job
+
+- Kill Misfortune with The Golden Sword.
+	- You must accept help from the Nebulous Monarchs to receive The Golden Sword.
+
+### The Imposter
+
+- Talk to Melvin as Melvin.
+	- Find the Melvin disguise in The Greenhouse, Palmarium.
+	- Put it on and speak to Melvin.
+
+### Watch Your Back
+
+- Find the creepy statue in The Greenhouse, Storage Cupboard.
