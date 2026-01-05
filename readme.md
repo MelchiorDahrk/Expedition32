@@ -99,12 +99,8 @@ Attribution - You must give appropriate credit.
 Non-Commercial - You may not use the material for commercial purposes (i.e. no payment of monetary compensation as a condition for the download).
 Exceptions - The following assets are not free to use:
 
-* All voice acting work may not copied or used for AI training
-* whitepath*.nif
-* whiteramp*.nif
-* whitestairs*.nif
-* moldpath*.nif
-* moldramp*.nif
+* No voice acting work may be copied or used for AI training
+* Meshes with the following file names may not be copied: whitepath01, whitepath02, whitepath03, whiteramp01, whiteramp02, whiteramp03, whitestairsl, whitestairsr, moldpath01, moldpath02, moldpath03, moldramp01, moldramp02, moldramp03
 
 If author(s) is/are not able to be contacted through a reasonable effort,
 Then you are free to copy and redistribute the material in its entirety for use in The Elder Scrolls III: Morrowind
