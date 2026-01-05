@@ -140,6 +140,7 @@ Added Tooltips Complete (MWSE) interop
 Added DRIP (MWSE) interop
 Added Smith - The Weapon Crafting Framework (MWSE) interop
 Added 10 custom achievements (requires MWSE & The Achievement Framework)
+Added optional loading screens
 Improved placement of side quest doors in the White Cliffs area
 Improved object placement in The Greenhouse Atrium
 Improved collision to floating tiles in the Tower and Corpse Fields
