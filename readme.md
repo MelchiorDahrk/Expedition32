@@ -127,57 +127,54 @@ Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 ## Changelog
 
 1.4.0
-Fixed a greeting for the Duel Side Quest to make it fire properly
-Silenced the Morag Tong fighters in the Monastery
-Improved placement of side quest doors in the white cliffs area
-Added better collision to floating tiles
-Fixed white cliffs shrine audio in OpenMW
-Fixed some typos
-Gave Melvin some basic spells for sale
-Filtered the quest start rumor to come from Temple or Morag Tong members
-Delayed the first narration pop up in the white cliffs area
-Improved object placement in The Greenhouse Atrium
-Cleaned up some out-of-bounds objects to improve performance in tower cell
-Dialogue tweaks to Morag Tong NPCs
-Better training options from the Morag Tong Masters in the Monastery
-Raised lock value on a door in the Monastery
-Fixed hole in the wall of Shards of Time
-Added painting to get back to the Shards of Time
-Added painting to get back to the Ethos Shrine
+Added paintings to return to the Shards of Time and Ethos Shrine
+Added safeguards to prevent the final boss from falling off the edge
+Added script to miscellaneous paintings in the Greenhouse to prompt before stealing
+Added a Garden Golem companion after unlocking the Nursery in The Greenhouse
+Added ancient idol item to the Corpse Fields
 Added Melvin disguise
-Fixed some issues on white ruins meshes
-Improved collision on some white cliffs
-Added NoLore to NPC on top of the tower
-Removed health regen from final boss and reduced health
-Added safeguards for the boss falling off the edge
-Added script to misc paintings in the greenhouse to prompt before being stolen
-Cursed the voidriven weapons
-Fixed fade out on monarch breath sounds
-Optimized braziers in Tower cell
-Added a garden golem companion after unlocking the Nursery in The Greenhouse
-Added ancient idol item to corpse field
-Made it harder to miss the fire scroll
+Added additional method for obtaining Celestine if the tower puzzle is completed incorrectly
+Added spellbook to learn Summon Nebulous Atronachs in The Greenhouse Lab
+Added book about the Kagioun
+Added Tooltips Complete (MWSE) interop
+Added DRIP (MWSE) interop
+Added Smith - The Weapon Crafting Framework (MWSE) interop
+Added 10 custom achievements (requires MWSE & The Achievement Framework)
+Improved placement of side quest doors in the White Cliffs area
+Improved object placement in The Greenhouse Atrium
+Improved collision to floating tiles in the Tower and Corpse Fields
+Improved collision on parts of the White Cliffs
+Improved White Cliffs pathgrids
+Cleaned up out-of-bounds objects to improve performance in the Tower cell
+Optimized braziers in the Tower cell
+Dialogue tweaks for Morag Tong NPCs
+Improved training options from Morag Tong Masters in the Monastery
+Raised the lock value on a door in the Monastery
+Delayed the first narration pop-up in the White Cliffs area
+Made it harder to miss the fire scroll at the first beacon
+Changed sword placement in the Nebula cell to encourage looking upward
+Improved loot chances in Tower and Corpse Fields containers
+Updated creature types to better reflect their nature
+Improved skinning on Kagioun
+Gave Melvin basic spells for sale
+Cursed the Voidriven weapons
+Fixed a greeting for the Duel side quest so it fires properly
+Silenced Morag Tong fighters in the Monastery
+Fixed some typos
+Filtered the quest start rumor to only come from Temple or Morag Tong members
+Fixed hole in the wall of Shards of Time
+Fixed issues with White Ruins meshes
+Added NoLore flag to the NPC on top of the tower
+Removed health regeneration from the final boss and reduced total health
+Fixed fade-out on Monarch breath sounds
 Removed lights from atronachs upon death
-Fixed issue where Duchess NPC in the outro cell didn't disable
-Lift will now only start after you have spoken to Misfortune
+Fixed issue where the Duchess NPC in the outro cell did not disable
+Lift will now only start after speaking with Misfortune
 Fixed flickering floor in Shifting Hollow
-Fixed kagioun soundgen
-Improved white cliffs path grids
-Changed sword placement in nebula cell to encourage looking up
-Added additional method for getting celestine if the puzzle is completed incorrectly in the tower
+Fixed Kagioun soundgen
+Removed respawn flag from some creatures
 Can now sleep in the bed even if the Duchess is dead
 Changed where you wake up if you fall off the edge in the Corpse Fields
-Removed some unused objects
-Updated some creature types to be more accurate to their nature
-Added MWSE tooltips complete support
-Added spellbook to learn Summon Nebulous Atronachs spell to The Greenhouse Lab
-Added book about the Kagioun
-Removed respawn flag from some creatures
-Improved loot chances in the Tower and Corpse Fields containers
-Added DRIP (MWSE) interop
-Improved skinning on Kagioun
-Added 10 custom achievements (requires MWSE & The Achievement Framework
-Added Smith - The Weapon Crafting Framework (MWSE) interop
 
 1.3.2
 Fixed fall script in The Garden
