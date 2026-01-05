@@ -151,6 +151,7 @@ Dialogue tweaks for Morag Tong NPCs
 Improved training options from Morag Tong Masters in the Monastery
 Raised the lock value on a door in the Monastery
 Delayed the first narration pop-up in the White Cliffs area
+Removed dependency on MUSE 2 for custom music with MWSE
 Made it harder to miss the fire scroll at the first beacon
 Changed sword placement in the Nebula cell to encourage looking upward
 Improved loot chances in Tower and Corpse Fields containers
