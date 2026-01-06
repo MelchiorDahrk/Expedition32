@@ -132,6 +132,7 @@ Added 10 custom achievements (requires MWSE & The Achievement Framework)
 Added optional loading screens
 Added Fresh Loot (OpenMW) interop
 Added optional animated containers for The Greenhouse (OpenMW & MWSE)
+Added patch for Goblins Remastered (4thUnknown creatures)
 Improved placement of side quest doors in the White Cliffs area
 Improved object placement in The Greenhouse Atrium
 Improved collision to floating tiles in the Tower and Corpse Fields
