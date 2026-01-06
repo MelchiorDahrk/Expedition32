@@ -25,6 +25,8 @@ Integration with other mods:
 * Ashfall (MWSE) - Full integration including Saffron Tea
 * DRIP (MWSE) / Fresh Loot (OpenMW) - The new Fractured Weapons have a chance to be enchanted
 * CSO (MWSE)
+* OpenMW Impact Effects - Assigns materials to all models
+* Diverse Blood - Gives some creatures custom blood
 * Graphic Herbalism (MWSE & OpenMW)
 * SSQN (MWSE & OpenMW)
 * Tooltips Complete (MWSE)
@@ -134,6 +136,7 @@ Added Fresh Loot (OpenMW) interop
 Added optional animated containers for The Greenhouse (OpenMW & MWSE)
 Added patch for Goblins Remastered (4thUnknown creatures)
 Added patch for OffworldDevil's Diverse Blood
+Added OpenMW Impact Effects interop
 Improved placement of side quest doors in the White Cliffs area
 Improved object placement in The Greenhouse Atrium
 Improved collision to floating tiles in the Tower and Corpse Fields
