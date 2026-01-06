@@ -18,6 +18,7 @@ Seelof
 * Over 500 custom models to bring brand new locales to life.
 
 Integration with other mods:
+* Animated Containers (MWSE & OpenMW)
 * MUSE (MWSE) - Custom music by Scipio for the final area
 * S3maphore (OpenMW) - Custom music by Scipio for the final area
 * The Achievements Framework (MWSE) - 10 custom achievements
@@ -130,6 +131,7 @@ Added Smith - The Weapon Crafting Framework (MWSE) interop
 Added 10 custom achievements (requires MWSE & The Achievement Framework)
 Added optional loading screens
 Added Fresh Loot (OpenMW) interop
+Added optional animated containers for The Greenhouse (OpenMW & MWSE)
 Improved placement of side quest doors in the White Cliffs area
 Improved object placement in The Greenhouse Atrium
 Improved collision to floating tiles in the Tower and Corpse Fields
