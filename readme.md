@@ -21,7 +21,7 @@ Integration with other mods:
 * Animated Containers (MWSE & OpenMW)
 * MUSE (MWSE) - Custom music by Scipio for the final area
 * S3maphore (OpenMW) - Custom music by Scipio for the final area
-* The Achievements Framework (MWSE) - 10 custom achievements
+* The Achievements Framework (MWSE & OpenMW) - 10 custom achievements
 * Ashfall (MWSE) - Full integration including Saffron Tea
 * DRIP (MWSE) / Fresh Loot (OpenMW) - The new Fractured Weapons have a chance to be enchanted
 * CSO (MWSE)
@@ -39,6 +39,8 @@ Talk to a member of the Morag Tong or Temple about Latest Rumors.
 
 OAAB_Data version 2.5.0 or later.
 Tamriel_Data version 25.0 or later.
+
+If you want achievements to work in OpenMW, you must update to version 3.0.0 or later of OMW Achievements
 
 ## Compatibility
 
@@ -130,7 +132,7 @@ Added book about the Kagioun
 Added Tooltips Complete (MWSE) interop
 Added DRIP (MWSE) interop
 Added Smith - The Weapon Crafting Framework (MWSE) interop
-Added 10 custom achievements (requires MWSE & The Achievement Framework)
+Added 10 custom achievements (requires The Achievement Framework (MWSE) or version 3.0.0 of OMW Achievements (OpenMW))
 Added optional loading screens
 Added Fresh Loot (OpenMW) interop
 Added optional animated containers for The Greenhouse (OpenMW & MWSE)
@@ -159,6 +161,7 @@ Cursed the Voidriven weapons
 Fixed a greeting for the Duel side quest so it fires properly
 Silenced Morag Tong fighters in the Monastery
 Fixed some typos
+Improved scripting in root puzzle realm to reduce visual bugs
 Filtered the quest start rumor to only come from Temple or Morag Tong members
 Fixed hole in the wall of Shards of Time
 Fixed issues with White Ruins meshes
