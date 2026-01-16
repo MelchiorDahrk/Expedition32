@@ -19,7 +19,11 @@ event.register("initialized", function()
     dofile("x32.ssqn.interop")
     dofile("x32.tooltipscomplete.interop")
     dofile("x32.smith.interop")
-    dofile("x32.telraloranpatch")
+	tes3.setGlobal(
+    	"x32_TelRaloranActive",
+    	(tes3.isModActive("OAAB - Tel Raloran.ESP")
+    	or tes3.isModActive("OAAB - Tel Raloran - Immersive Tables.ESP")) and 1 or 0
+	)
 end)
 
 event.register("magicEffectsResolved", function()
