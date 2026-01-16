@@ -21,7 +21,7 @@ Integration with other mods:
 * Animated Containers (MWSE & OpenMW)
 * MUSE (MWSE) - Custom music by Scipio for the final area
 * S3maphore (OpenMW) - Custom music by Scipio for the final area
-* The Achievements Framework (MWSE & OpenMW) - 10 custom achievements
+* The Achievements Framework & OMW Achievements (MWSE & OpenMW) - 10 custom achievements
 * Ashfall (MWSE) - Full integration including Saffron Tea
 * DRIP (MWSE) / Fresh Loot (OpenMW) - The new Fractured Weapons have a chance to be enchanted
 * CSO (MWSE)
@@ -29,6 +29,7 @@ Integration with other mods:
 * Diverse Blood - Gives some creatures custom blood
 * Graphic Herbalism (MWSE & OpenMW)
 * SSQN (MWSE & OpenMW)
+* Completionist (OpenMW) - All quests are included
 * Tooltips Complete (MWSE)
 
 ## Getting Started
@@ -54,6 +55,10 @@ This mod adds a Velothi tower entrance to 17,-3 and 17,-4. This might conflict w
 01 OpenMW Addons - Includes SSQN interop
 02 Music (MWSE - MUSE)
 02 Music (OpenMW - S3maphore)
+
+If you use Completionist - A Morrowind Quest Tracker (OpenMW), then you will need to add this line into your load_quests.lua:
+
+require('scripts.Completionist.quests_tgod') -- The Garden of Dreams
 
 ## Credits
 
@@ -142,6 +147,7 @@ Added optional animated containers for The Greenhouse (OpenMW & MWSE)
 Added patch for Goblins Remastered (4thUnknown creatures)
 Added patch for OffworldDevil's Diverse Blood
 Added OpenMW Impact Effects interop
+Added Completionist (OpenMW) interop
 Improved placement of side quest doors in the White Cliffs area
 Improved object placement in The Greenhouse Atrium
 Improved collision to floating tiles in the Tower and Corpse Fields
