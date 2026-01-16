@@ -41,6 +41,8 @@ Talk to a member of the Morag Tong or Temple about Latest Rumors.
 OAAB_Data version 2.5.0 or later.
 Tamriel_Data version 25.0 or later.
 
+MOP is recommended to avoid visible mist markers.
+
 If you want achievements to work in OpenMW, you must update to version 3.0.0 or later of OMW Achievements
 
 ## Compatibility
