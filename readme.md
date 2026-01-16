@@ -59,11 +59,14 @@ This mod adds a Velothi tower entrance to 17,-3 and 17,-4. This might conflict w
 
 Special thanks to:
 Greatness7 - Asset troubleshooting and extensive help with lua coding
+JackimoffWackimoff - Voice acting for a Dark Elf
 Lucevar - Special thanks for consulting! Honorary team member
+Renara Hawke - Voice acting for Misfortune
 Ruffin Vangarr - A dark elf head and hair
 S3ctor - Help with the s3maphore integration
 Safebox - Extensive help troubleshooting the achievement support
 Scipio - Music for the Corpse Fields
+Skooma Lover - For help updating OMW Achievements to support this mod
 
 Resources used from:
 Amal Kumar - Rocky trail texture

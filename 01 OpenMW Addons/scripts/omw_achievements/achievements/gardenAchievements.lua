@@ -100,7 +100,7 @@ local gardenAchievements = {
         icon = "Icons\\x32\\v\\achievement_deg.tga",
         bgColor = "purple",
         id = "x32_deg",
-        hidden = false
+        hidden = true
     },
     {
         type = "global_variable",
@@ -114,7 +114,7 @@ local gardenAchievements = {
         icon = "Icons\\x32\\v\\achievement_sword.tga",
         bgColor = "purple",
         id = "x32_sword",
-        hidden = false
+        hidden = true
     },
     {
         type = "global_variable",
@@ -128,7 +128,7 @@ local gardenAchievements = {
         icon = "Icons\\x32\\v\\achievement_melvin.tga",
         bgColor = "purple",
         id = "x32_melvin",
-        hidden = false
+        hidden = true
     },
     {
         type = "global_variable",
@@ -142,7 +142,7 @@ local gardenAchievements = {
         icon = "Icons\\x32\\v\\achievement_statue.tga",
         bgColor = "purple",
         id = "x32_statue",
-        hidden = false
+        hidden = true
     },
 }
 
