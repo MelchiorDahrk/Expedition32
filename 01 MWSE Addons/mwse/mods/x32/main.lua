@@ -19,6 +19,7 @@ event.register("initialized", function()
     dofile("x32.ssqn.interop")
     dofile("x32.tooltipscomplete.interop")
     dofile("x32.smith.interop")
+    dofile("x32.telraloranpatch")
 end)
 
 event.register("magicEffectsResolved", function()

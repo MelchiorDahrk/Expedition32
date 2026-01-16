@@ -1,14 +1,17 @@
 Merging plugins...
-Merging object to master: CONT x32_o_BrUrnLoot
-Merging object to master: CONT x32_o_BrChest_01
-Merging object to master: CONT x32_o_BrUrnLoot04
-Merging object to master: CONT x32_o_BrUrnLoot01
-Merging object to master: CONT x32_o_BrUrnLoot02
-Merging object to master: LEVI x32_lvl_CorpseLoot
-Merging object to master: CONT x32_o_BrUrnLoot03
-Merging object to master: CONT x32_o_BrChest_unique
-Merging object to master: LEVI x32_lvl_w_Fractured
-Removed deleted CONT object: x32_o_BrChest_unique
-Removed deleted CONT object: x32_o_BrUrnLoot
+Copying object to master: GLOB x32_TelRaloranActive
+Copying object to master: STAT x32_Ex_MTEntry
+Copying object to master: LIGH x32_Ex_MTLantern
+Copying object to master: STAT x32_Ex_MTDome
+Copying object to master: DOOR x32_In_MTDoor
+Copying object to master: STAT x32_Ex_MTRock
+Copying object to master: STAT x32_Ex_MTFound
+Copying object to master: SCPT x32_MTDoor_s
+Copying object to master: DOOR x32_Ex_MTDoor
+Merging exterior to master: (18, -3)
+Merging exterior to master: (18, -4)
+Merging exterior to master: (17, -4)
+Merging exterior to master: (17, -3)
+Merging interior to master: Monastery of Mephala
 Saving results...
 Finished!
