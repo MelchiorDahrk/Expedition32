@@ -9,16 +9,24 @@ then
 end
 
 event.register("initialized", function()
-    dofile("x32.achievements.interop")
-    dofile("x32.ashfall.interop")
-    dofile("x32.cso.interop")
-    dofile("x32.drip.interop")
-    dofile("x32.gh.interop")
-    dofile("x32.dropcursortile")
-    dofile("x32.music")
-    dofile("x32.ssqn.interop")
-    dofile("x32.tooltipscomplete.interop")
-    dofile("x32.smith.interop")
+for _, path in ipairs({
+    "x32.achievements.interop",
+    "x32.ashfall.interop",
+    "x32.cso.interop",
+    "x32.drip.interop",
+    "x32.gh.interop",
+    "x32.dropcursortile",
+    "x32.music",
+    "x32.ssqn.interop",
+    "x32.tooltipscomplete.interop",
+    "x32.smith.interop",
+}) do 
+    local success, errorMessage = pcall(function() dofile(path) end)
+    if not success then
+        print(errorMessage)
+    end
+end
+	-- Set global to 1 for when running Tel Raloran mod
 	tes3.setGlobal(
     	"x32_TelRaloranActive",
     	(tes3.isModActive("OAAB - Tel Raloran.ESP")
