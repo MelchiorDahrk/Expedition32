@@ -1,10 +1,6 @@
 Merging plugins...
-Merging object to master: SCPT x32_JW_Beastgreet
 Merging object to master: SCPT x32_Narration01
-Merging object to master: CREA x32_Cre_BeastNarration
-Merging interior to master: The Garden, White Cliffs
-Merging interior to master: The Greenhouse, Vestibule
-Merging object to master: greeting 0
-Removed deleted CREA object: x32_Cre_BeastNarration
+Copying object to master: SCPT x32_NarrationWait_s
+Copying object to master: GLOB x32_NarrationWait
 Saving results...
 Finished!
