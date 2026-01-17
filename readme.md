@@ -174,6 +174,7 @@ Cursed the Voidriven weapons
 Fixed a greeting for the Duel side quest so it fires properly
 Silenced Morag Tong fighters in the Monastery
 Fixed some typos
+Fixed bug where wall shrine sound doesn't play in OpenMW
 Improved scripting in root puzzle realm to reduce visual bugs
 Filtered the quest start rumor to only come from Temple or Morag Tong members
 Fixed hole in the wall of Shards of Time
