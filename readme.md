@@ -130,6 +130,7 @@ Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 ## Changelog
 
 1.4.0
+Added voice acting to Misfortune by Renara Hawke
 Added paintings to return to the Shards of Time and Ethos Shrine
 Added safeguards to prevent the final boss from falling off the edge
 Added script to miscellaneous paintings in the Greenhouse to prompt before stealing
