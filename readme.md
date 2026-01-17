@@ -148,6 +148,7 @@ Added Fresh Loot (OpenMW) interop
 Added optional animated containers for The Greenhouse (OpenMW & MWSE)
 Added patch for Goblins Remastered (4thUnknown creatures)
 Added patch for OffworldDevil's Diverse Blood
+Added patch for OAAB - Tel Raloran
 Added OpenMW Impact Effects interop
 Added Completionist (OpenMW) interop
 Improved placement of side quest doors in the White Cliffs area
