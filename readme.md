@@ -128,6 +128,10 @@ SSQN interops may not work with all side quests
 Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 
 ## Changelog
+1.4.1
+Removed debug messages from MWSE music code
+Fixed some Kagioun-related typos
+Fixed fomod
 
 1.4.0
 Added voice acting to Misfortune by Renara Hawke
