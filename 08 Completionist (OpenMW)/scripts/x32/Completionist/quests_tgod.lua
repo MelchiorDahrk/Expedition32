@@ -1,6 +1,6 @@
-local Mechanics = require('scripts.Completionist.mechanics')
+local self = require('openmw.self')
 
-local quests = {
+local theGardenOfDreamsQuests = {
 
 	{
 		id = "x32_MQ",
@@ -110,5 +110,20 @@ local quests = {
 
 }
 
-Mechanics.registerQuests(quests)
-return true
+local hasSent = false
+
+return {
+    engineHandlers = {
+        onUpdate = function(dt)
+           
+            if not hasSent then
+                print("[Completionist] Sending quest data...")
+               
+                self:sendEvent("Completionist_RegisterPack", theGardenOfDreamsQuests)
+               
+                print("[Completionist] Data sent successfully!")
+                hasSent = true
+            end
+        end
+    }
+}
