@@ -68,6 +68,7 @@ Special thanks to:
 Greatness7 - Asset troubleshooting and extensive help with lua coding
 JackimoffWackimoff - Voice acting for a Dark Elf
 Lucevar - Special thanks for consulting! Honorary team member
+MS - Fixing the nebula music and encouraging the team to comment on a visual documentary project
 Renara Hawke - Voice acting for Misfortune
 Ruffin Vangarr - A dark elf head and hair
 S3ctor - Help with the s3maphore integration
@@ -128,6 +129,11 @@ SSQN interops may not work with all side quests
 Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 
 ## Changelog
+1.4.2
+Fixed looping issue with the nebula music
+Updated Completionist interop for the latest version
+Fixed Tooltips Complete interop
+
 1.4.1
 Removed debug messages from MWSE music code
 Fixed some Kagioun-related typos
