@@ -11,11 +11,12 @@ MwGek
 Seelof
 
 ## Features
-
 * Follow the horrifying path of an individual cursed by prophecy to die in every possible outcome.
 * Catch glimpses of a mysterious presence hunting you across magical realms.
 * Unravel the mythical nature of how death and fate are intertwined in The Elder Scrolls universe.
-* Over 500 custom models to bring brand new locales to life.
+* Three Morag Tong writ quests from the new Monastery of Mephala.
+* Almost 15,000 objects using over 500 custom models placed in expansive new areas to explore.
+* Voice acting by Renara Hawke.
 
 Integration with other mods:
 * Animated Containers (MWSE & OpenMW)
@@ -133,6 +134,14 @@ Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 Fixed looping issue with the nebula music
 Updated Completionist interop for the latest version
 Fixed Tooltips Complete interop
+Fixed some voice files having incorrect file path
+Fixed issue which can block progression when sleeping in bed with level up
+Removed sequence break if you spoke to NPC before completing all objectives
+Fixed a dropped `i` in additem which caused a quest to not complete
+Removed script from `ab_door_deshipdoorlower`
+Fixed script bugs which could cause infrequent issues
+Improved mini map in Monastery
+Typo fixes
 
 1.4.1
 Removed debug messages from MWSE music code
