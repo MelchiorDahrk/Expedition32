@@ -130,6 +130,9 @@ SSQN interops may not work with all side quests
 Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 
 ## Changelog
+1.4.3
+Removed dirty edit of OAAB ship hatch
+
 1.4.2
 Fixed looping issue with the nebula music
 Updated Completionist interop for the latest version
