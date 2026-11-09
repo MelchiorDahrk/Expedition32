@@ -1,4 +1,7 @@
 local drip = include("mer.drip")
+if drip == nil then
+    return
+end
 
 --The Garden of Dreams
 local materials = require("x32.drip.config.materials")

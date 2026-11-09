@@ -1,4 +1,7 @@
-local interop = require("sb_smith.interop")
+local interop = include("sb_smith.interop")
+if interop == nil then
+    return
+end
 
 ---@type weapon[]
 local weapons = {

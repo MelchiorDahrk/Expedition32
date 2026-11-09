@@ -130,8 +130,13 @@ SSQN interops may not work with all side quests
 Animations do not always sync properly on MGE XE in the Rooted puzzle realm
 
 ## Changelog
-1.4.3
-Fixed voice files mismatched with plugin
+1.5.0
+Added level 5 restriction to start the quest (alternatively can join Morag Tong)
+Fixed possible softlock from skipping boss phases
+Fixed normals on some meshes which were broken in OpenMW 0.50+
+Fixed DRIP and Smith interop errors
+Added plugin description
+Cleaned plugin
 
 1.4.2
 Fixed looping issue with the nebula music
